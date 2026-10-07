@@ -1,0 +1,21 @@
+name: Auto Update CSS News
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node update-news.js
+      - run: |
+          git config --global user.name "Bukhari Bot"
+          git config --global user.email "bot@bukhari-css.com"
+          git add news-data.json last-update.txt
+          if git diff --staged --quiet; then echo "No new news"; else git commit -m "Auto-update: $(date -u)"; git push; fi
