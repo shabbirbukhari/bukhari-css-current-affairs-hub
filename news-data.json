@@ -1,21 +1,323 @@
 {
-  "lastUpdated": "2026-10-07T06:00:00.000Z",
-  "lastUpdatedDisplay": "07 Oct 2026, 06:00",
+  "lastUpdated": "2026-10-07T07:12:22.473Z",
+  "lastUpdatedDisplay": "07 Oct 2026, 07:12",
   "news": [
     {
-      "id": "n11-fixed",
-      "date": "20 May 2025",
-      "headline": "WHO Members Adopt Landmark Pandemic Agreement in US Absence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/5/20/who-members-adopt-landmark-pandemic-agreement-in-us-absence",
+      "id": "live-bbc-1791357142223-0",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 07:07:22 GMT",
+      "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "who",
-        "health",
-        "pandemic",
-        "global",
-        "governance"
-      ],
-      "realPubDate": "Tue, 20 May 2025 10:00:00 GMT"
+        "death",
+        "inmate",
+        "christa",
+        "pike",
+        "awake",
+        "speaking"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142109-0",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 06:41:11 +0000",
+      "headline": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+      "keywords": [
+        "yemen’s",
+        "houthis",
+        "attack",
+        "aden",
+        "airport;",
+        "saudi"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-1",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 06:33:54 +0000",
+      "headline": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+      "keywords": [
+        "russia’s",
+        "fuel",
+        "crisis",
+        "given",
+        "iranian",
+        "opening"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-2",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 06:27:18 +0000",
+      "headline": "How has Israel’s genocide changed Gaza?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+      "keywords": [
+        "israel’s",
+        "genocide",
+        "changed",
+        "gaza?"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-3",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 06:19:26 +0000",
+      "headline": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "keywords": [
+        "least",
+        "killed",
+        "kyiv",
+        "russia",
+        "launches",
+        "‘massive’"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-4",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 06:15:44 +0000",
+      "headline": "Yemen’s displaced children dream of returning to school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+      "keywords": [
+        "yemen’s",
+        "displaced",
+        "children",
+        "dream",
+        "returning",
+        "school"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-5",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 06:10:21 +0000",
+      "headline": "Finland orders halt to work on Google data centre sites",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss",
+      "keywords": [
+        "finland",
+        "orders",
+        "halt",
+        "work",
+        "google",
+        "data"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-6",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 05:54:10 +0000",
+      "headline": "Lionel Messi’s last game for Argentina ends in triumph and tears",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears?traffic_source=rss",
+      "keywords": [
+        "lionel",
+        "messi’s",
+        "last",
+        "game",
+        "argentina",
+        "ends"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-7",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 05:41:54 +0000",
+      "headline": "How three years of Israel’s genocidal war have changed Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
+      "keywords": [
+        "three",
+        "years",
+        "israel’s",
+        "genocidal",
+        "have",
+        "changed"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-8",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 05:12:55 +0000",
+      "headline": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
+      "keywords": [
+        "libya’s",
+        "parliament",
+        "removes",
+        "speaker",
+        "saleh",
+        "after"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-1",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 05:02:18 GMT",
+      "headline": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "residents",
+        "kibbutz",
+        "destroyed",
+        "october",
+        "hamas-led",
+        "attacks"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791357142110-9",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 05:02:04 +0000",
+      "headline": "Three years of Israel’s genocide in Gaza: In numbers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+      "keywords": [
+        "three",
+        "years",
+        "israel’s",
+        "genocide",
+        "gaza:",
+        "numbers"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-7",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 04:39:59 GMT",
+      "headline": "Pornhub returns to Australia but only for adults with Apple devices",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "pornhub",
+        "returns",
+        "australia",
+        "only",
+        "adults",
+        "with"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-5",
+      "date": "07 Oct 2026",
+      "realPubDate": "Wed, 07 Oct 2026 04:22:07 GMT",
+      "headline": "Former Australian bishop jailed for sexually abusing young men",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "former",
+        "australian",
+        "bishop",
+        "jailed",
+        "sexually",
+        "abusing"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-4",
+      "date": "06 Oct 2026",
+      "realPubDate": "Tue, 06 Oct 2026 23:07:44 GMT",
+      "headline": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "beautiful",
+        "himalayan",
+        "bird",
+        "changing",
+        "voice",
+        "human"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-3",
+      "date": "06 Oct 2026",
+      "realPubDate": "Tue, 06 Oct 2026 19:53:45 GMT",
+      "headline": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "ex-us",
+        "stashed",
+        "gold",
+        "bars",
+        "home",
+        "admits"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-6",
+      "date": "06 Oct 2026",
+      "realPubDate": "Tue, 06 Oct 2026 18:03:19 GMT",
+      "headline": "Tear gas in Paris and Marseille as school protests grow across France",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "tear",
+        "paris",
+        "marseille",
+        "school",
+        "protests",
+        "grow"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-2",
+      "date": "06 Oct 2026",
+      "realPubDate": "Tue, 06 Oct 2026 15:35:22 GMT",
+      "headline": "What is pneumonic plague and how does it spread?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "what",
+        "pneumonic",
+        "plague",
+        "does",
+        "spread?"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-9",
+      "date": "06 Oct 2026",
+      "realPubDate": "Tue, 06 Oct 2026 11:24:19 GMT",
+      "headline": "'Ghost particles' from space telescope wins physics Nobel",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "'ghost",
+        "particles'",
+        "from",
+        "space",
+        "telescope",
+        "wins"
+      ]
+    },
+    {
+      "id": "live-bbc-1791357142223-8",
+      "date": "06 Oct 2026",
+      "realPubDate": "Tue, 06 Oct 2026 10:05:42 GMT",
+      "headline": "Former German spy chief arrested for espionage and treason",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "former",
+        "german",
+        "chief",
+        "arrested",
+        "espionage",
+        "treason"
+      ]
     }
   ]
 }
