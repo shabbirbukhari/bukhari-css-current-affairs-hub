@@ -1,321 +1,323 @@
 {
-  "lastUpdated": "2026-10-09T07:07:54.486Z",
-  "lastUpdatedDisplay": "09 Oct 2026, 07:07",
+  "lastUpdated": "2026-10-10T06:41:22.836Z",
+  "lastUpdatedDisplay": "10 Oct 2026, 06:41",
   "news": [
     {
-      "id": "live-bbc-1791529673747-1",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 07:05:05 GMT",
-      "headline": "Firing squad execution to be livestreamed, Pentagon says",
+      "id": "live-al jazeera-1791614482251-0",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 06:20:53 +0000",
+      "headline": "Yemen’s Taiz under siege again as food and fuel prices rise",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
+      "keywords": [
+        "yemen’s",
+        "taiz",
+        "under",
+        "siege",
+        "again",
+        "food"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791614482251-1",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 05:54:36 +0000",
+      "headline": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+      "keywords": [
+        "india",
+        "protest",
+        "live:",
+        "‘cockroach’",
+        "leaders",
+        "detained;"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791614482252-2",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 05:43:33 +0000",
+      "headline": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+      "keywords": [
+        "hosts",
+        "‘productive’",
+        "trilateral",
+        "talks",
+        "russia-ukraine"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791614482252-3",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 05:28:33 +0000",
+      "headline": "Israel’s economy prospers despite years of war, but prices worry voters",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
+      "keywords": [
+        "israel’s",
+        "economy",
+        "prospers",
+        "despite",
+        "years",
+        "war,"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791614482252-4",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 05:08:49 +0000",
+      "headline": "Taiwan president says defence spending boost aims to ‘deter war’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss",
+      "keywords": [
+        "taiwan",
+        "president",
+        "says",
+        "defence",
+        "spending",
+        "boost"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791614482252-5",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 04:54:59 +0000",
+      "headline": "Anthropic AI model submits false homicide tip to Philadelphia police",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss",
+      "keywords": [
+        "anthropic",
+        "model",
+        "submits",
+        "false",
+        "homicide",
+        "philadelphia"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791614482252-6",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 04:54:10 +0000",
+      "headline": "Supporters of jailed former Pakistani PM Khan marching to capital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss",
+      "keywords": [
+        "supporters",
+        "jailed",
+        "former",
+        "pakistani",
+        "khan",
+        "marching"
+      ]
+    },
+    {
+      "id": "live-bbc-1791614482400-0",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 04:38:20 GMT",
+      "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "firing",
-        "squad",
-        "execution",
-        "livestreamed,",
-        "pentagon",
-        "says"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791529673584-0",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 06:55:11 +0000",
-      "headline": "Who is Dov Lando, the Israeli rabbi criticising Zionism?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss",
-      "keywords": [
-        "lando,",
-        "israeli",
-        "rabbi",
-        "criticising",
-        "zionism?"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791529673584-1",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 06:36:48 +0000",
-      "headline": "Afghanistan’s emerald miners struggle with tools but attract global buyers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss",
-      "keywords": [
-        "afghanistan’s",
-        "emerald",
-        "miners",
-        "struggle",
-        "with",
-        "tools"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791529673584-2",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 06:22:07 +0000",
-      "headline": "Trump says US will not strike Iran before midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
         "trump",
-        "says",
-        "will",
-        "strike",
-        "iran",
-        "before"
+        "announces",
+        "deal",
+        "russian",
+        "diesel",
+        "zelensky"
       ]
     },
     {
-      "id": "live-al jazeera-1791529673584-3",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 06:19:56 +0000",
-      "headline": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
+      "id": "live-bbc-1791614482400-2",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 04:34:55 GMT",
+      "headline": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "brazilian",
-        "supreme",
-        "court",
-        "judge",
-        "issues",
-        "arrest"
+        "flydubai",
+        "attacker",
+        "began",
+        "'drift",
+        "towards",
+        "extremism"
       ]
     },
     {
-      "id": "live-al jazeera-1791529673584-4",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 05:53:04 +0000",
-      "headline": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
+      "id": "live-al jazeera-1791614482252-7",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 04:30:34 +0000",
+      "headline": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
       "keywords": [
-        "from",
-        "aden",
-        "sanaa,",
-        "yemenis",
-        "struggle",
-        "deal"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791529673584-5",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 05:52:49 +0000",
-      "headline": "How October 7 changed Lebanon and Hezbollah’s political reality",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
-      "keywords": [
-        "october",
-        "changed",
-        "lebanon",
-        "hezbollah’s",
-        "political",
-        "reality"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791529673584-6",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 05:22:16 +0000",
-      "headline": "Photos: Gaza before and after – a city transformed by war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
-      "keywords": [
-        "photos:",
-        "gaza",
-        "before",
+        "hours",
         "after",
-        "city",
-        "transformed"
+        "trump-putin",
+        "diesel",
+        "deal,",
+        "ukraine"
       ]
     },
     {
-      "id": "live-bbc-1791529673748-5",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 04:53:50 GMT",
-      "headline": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "freezing",
-        "winter",
-        "approaches,",
-        "kyiv",
-        "residents",
-        "look"
-      ]
-    },
-    {
-      "id": "live-bbc-1791529673748-4",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 04:44:22 GMT",
-      "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "cars",
-        "torched",
-        "shops",
-        "looted",
-        "anti-migrant",
-        "violence"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791529673584-7",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 04:26:55 +0000",
-      "headline": "Mexico prison clash in strife-torn Sinaloa state leaves 10 dead",
+      "id": "live-al jazeera-1791614482252-8",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 04:07:30 +0000",
+      "headline": "India deploys police and restricts transport ahead of mass protest in Delhi",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
       "keywords": [
-        "mexico",
-        "prison",
-        "clash",
-        "strife-torn",
-        "sinaloa",
-        "state"
+        "india",
+        "deploys",
+        "police",
+        "restricts",
+        "transport",
+        "ahead"
       ]
     },
     {
-      "id": "live-al jazeera-1791529673584-8",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 04:26:50 +0000",
-      "headline": "Uproar in NY after ICE shoots man with child in the car",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss",
-      "keywords": [
-        "uproar",
-        "after",
-        "shoots",
-        "with",
-        "child"
-      ]
-    },
-    {
-      "id": "live-bbc-1791529673747-2",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 04:26:19 GMT",
-      "headline": "ICE agent shoots man in New York City",
+      "id": "live-bbc-1791614482401-7",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 04:07:11 GMT",
+      "headline": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "agent",
-        "shoots",
-        "york",
-        "city"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791529673584-9",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 03:47:41 +0000",
-      "headline": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss",
-      "keywords": [
-        "northern",
-        "ireland’s",
-        "sinn",
-        "fein",
-        "faces",
-        "police"
-      ]
-    },
-    {
-      "id": "live-bbc-1791529673748-6",
-      "date": "09 Oct 2026",
-      "realPubDate": "Fri, 09 Oct 2026 03:36:41 GMT",
-      "headline": "Adidas sues Australian label White Fox over four stripes design",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "adidas",
-        "sues",
-        "australian",
-        "label",
-        "white",
+        "'stain",
+        "country':",
+        "trump",
+        "criticises",
+        "norway",
         "over"
       ]
     },
     {
-      "id": "live-bbc-1791529673747-0",
-      "date": "08 Oct 2026",
-      "realPubDate": "Thu, 08 Oct 2026 23:11:10 GMT",
-      "headline": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1791614482252-9",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 03:38:05 +0000",
+      "headline": "CCTV footage shows ICE shooting in New York",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
       "keywords": [
-        "suspect",
-        "linked",
-        "monaco",
-        "bomb",
-        "attack",
-        "millionaire"
+        "cctv",
+        "footage",
+        "shows",
+        "shooting",
+        "york"
       ]
     },
     {
-      "id": "live-bbc-1791529673748-7",
-      "date": "08 Oct 2026",
-      "realPubDate": "Thu, 08 Oct 2026 19:10:06 GMT",
-      "headline": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "id": "live-bbc-1791614482401-5",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 02:02:54 GMT",
+      "headline": "US country music star Ella Langley cancels show due to 'security threat'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "protesters",
-        "blame",
-        "'vulture",
-        "funds'",
-        "spain's",
-        "housing"
+        "country",
+        "music",
+        "star",
+        "ella",
+        "langley",
+        "cancels"
       ]
     },
     {
-      "id": "live-bbc-1791529673748-9",
-      "date": "08 Oct 2026",
-      "realPubDate": "Thu, 08 Oct 2026 17:38:59 GMT",
-      "headline": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "id": "live-bbc-1791614482401-4",
+      "date": "10 Oct 2026",
+      "realPubDate": "Sat, 10 Oct 2026 01:58:56 GMT",
+      "headline": "Life-threatening Hurricane Isaias makes landfall in Florida",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "venezuela's",
-        "ex-leader",
-        "nicolás",
-        "maduro",
-        "charged",
-        "with"
+        "life-threatening",
+        "hurricane",
+        "isaias",
+        "makes",
+        "landfall",
+        "florida"
       ]
     },
     {
-      "id": "live-bbc-1791529673747-3",
-      "date": "08 Oct 2026",
-      "realPubDate": "Thu, 08 Oct 2026 16:31:29 GMT",
-      "headline": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "id": "live-bbc-1791614482400-1",
+      "date": "09 Oct 2026",
+      "realPubDate": "Fri, 09 Oct 2026 22:30:22 GMT",
+      "headline": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "russian",
-        "strike",
-        "buses",
-        "kills",
-        "least",
-        "officials,"
+        "analysis:",
+        "trump's",
+        "shock",
+        "russia",
+        "deal",
+        "highlights"
       ]
     },
     {
-      "id": "live-bbc-1791529673748-8",
-      "date": "08 Oct 2026",
-      "realPubDate": "Thu, 08 Oct 2026 14:33:23 GMT",
-      "headline": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "id": "live-bbc-1791614482400-3",
+      "date": "09 Oct 2026",
+      "realPubDate": "Fri, 09 Oct 2026 21:55:51 GMT",
+      "headline": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "'bold",
-        "inventive'",
-        "canadian",
-        "poet",
-        "anne",
-        "carson"
+        "three",
+        "found",
+        "guilty",
+        "murdering",
+        "australian",
+        "brothers"
+      ]
+    },
+    {
+      "id": "live-bbc-1791614482401-8",
+      "date": "09 Oct 2026",
+      "realPubDate": "Fri, 09 Oct 2026 21:50:47 GMT",
+      "headline": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "vance",
+        "casts",
+        "doubt",
+        "firing",
+        "squad",
+        "execution"
+      ]
+    },
+    {
+      "id": "live-bbc-1791614482401-6",
+      "date": "09 Oct 2026",
+      "realPubDate": "Fri, 09 Oct 2026 21:26:30 GMT",
+      "headline": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "powerful",
+        "magnitude",
+        "earthquake",
+        "hits",
+        "panama,",
+        "damaging"
+      ]
+    },
+    {
+      "id": "live-bbc-1791614482401-9",
+      "date": "09 Oct 2026",
+      "realPubDate": "Fri, 09 Oct 2026 18:40:10 GMT",
+      "headline": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "unveils",
+        "sanctions",
+        "move",
+        "court",
+        "condemns",
+        "'assault"
       ]
     }
   ]
