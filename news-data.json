@@ -1,324 +1,325 @@
 {
-  "lastUpdated": "2026-10-11T06:48:17.881Z",
-  "lastUpdatedDisplay": "11 Oct 2026, 06:48",
+  "lastUpdated": "2026-10-12T06:58:29.562Z",
+  "lastUpdatedDisplay": "12 Oct 2026, 06:58",
   "news": [
     {
-      "id": "live-al jazeera-1791701297270-0",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 06:34:31 +0000",
-      "headline": "Flash flood sweeps away buildings in Nepal",
+      "id": "live-al jazeera-1791788309202-0",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 06:07:44 +0000",
+      "headline": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
       "keywords": [
-        "flash",
-        "flood",
-        "sweeps",
+        "india",
+        "protest",
+        "live:",
+        "opposition",
+        "march",
+        "supreme"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309202-1",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 05:53:45 +0000",
+      "headline": "Countries warn against travel to Saudi Arabia following Houthi attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss",
+      "keywords": [
+        "countries",
+        "warn",
+        "against",
+        "travel",
+        "saudi",
+        "arabia"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309202-2",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 05:27:22 +0000",
+      "headline": "Clashes reported in Yemen as Houthis advance towards Taiz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss",
+      "keywords": [
+        "clashes",
+        "reported",
+        "yemen",
+        "houthis",
+        "advance",
+        "towards"
+      ]
+    },
+    {
+      "id": "live-bbc-1791788309327-3",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 05:00:52 GMT",
+      "headline": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "documents",
+        "falsified",
+        "evade",
+        "abramovich's",
+        "wealth,",
+        "finds"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309202-3",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 04:58:01 +0000",
+      "headline": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+      "keywords": [
+        "china",
+        "sanctions",
+        "paraguay,",
+        "belize",
+        "ministers",
+        "over"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309202-4",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 04:24:18 +0000",
+      "headline": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+      "keywords": [
+        "netanyahu",
+        "demands",
+        "probe",
+        "into",
+        "sources",
+        "award-winning"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309202-5",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 04:00:56 +0000",
+      "headline": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+      "keywords": [
+        "ethiopian",
+        "troops",
+        "enter",
+        "adigrat",
+        "tigray,",
+        "near"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309202-6",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 03:37:12 +0000",
+      "headline": "North Korea fires multiple ballistic missiles towards the sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+      "keywords": [
+        "north",
+        "korea",
+        "fires",
+        "multiple",
+        "ballistic",
+        "missiles"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309203-7",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 03:09:11 +0000",
+      "headline": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+      "keywords": [
+        "least",
+        "dead",
+        "migrant",
+        "boat",
+        "from",
+        "djibouti"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309203-8",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 02:11:21 +0000",
+      "headline": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "keywords": [
+        "saudi",
+        "arabia",
+        "says",
+        "dead,",
+        "injured",
+        "latest"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791788309203-9",
+      "date": "12 Oct 2026",
+      "realPubDate": "Mon, 12 Oct 2026 01:24:26 +0000",
+      "headline": "Bridge washed away by torrent of water in Nepal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+      "keywords": [
+        "bridge",
+        "washed",
         "away",
-        "buildings",
+        "torrent",
+        "water",
         "nepal"
       ]
     },
     {
-      "id": "live-bbc-1791701297590-3",
+      "id": "live-bbc-1791788309327-6",
       "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 06:02:25 GMT",
-      "headline": "Delhi braces for more protests as 'cockroach' group's leaders released",
+      "realPubDate": "Sun, 11 Oct 2026 23:48:25 GMT",
+      "headline": "Watch: Endangered orangutans released back into the wild after Borneo fires",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "delhi",
-        "braces",
-        "more",
-        "protests",
-        "'cockroach'",
-        "group's"
+        "watch:",
+        "endangered",
+        "orangutans",
+        "released",
+        "back",
+        "into"
       ]
     },
     {
-      "id": "live-al jazeera-1791701297270-1",
+      "id": "live-bbc-1791788309327-7",
       "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 05:57:00 +0000",
-      "headline": "Vinicius apologises for hair-pull red card but could miss El Clasico",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
-      "keywords": [
-        "vinicius",
-        "apologises",
-        "hair-pull",
-        "card",
-        "could",
-        "miss"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791701297270-2",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 05:35:09 +0000",
-      "headline": "How genocidal war on Gaza is shaping Israel’s election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
-      "keywords": [
-        "genocidal",
-        "gaza",
-        "shaping",
-        "israel’s",
-        "election"
-      ]
-    },
-    {
-      "id": "live-bbc-1791701297590-8",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 05:05:43 GMT",
-      "headline": "US justice department investigates TV networks over Trump pool coverage",
+      "realPubDate": "Sun, 11 Oct 2026 23:33:24 GMT",
+      "headline": "Iconic Australian band Powderfinger announce first tour in 17 years",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "justice",
-        "department",
-        "investigates",
-        "networks",
+        "iconic",
+        "australian",
+        "band",
+        "powderfinger",
+        "announce",
+        "first"
+      ]
+    },
+    {
+      "id": "live-bbc-1791788309327-1",
+      "date": "11 Oct 2026",
+      "realPubDate": "Sun, 11 Oct 2026 23:18:45 GMT",
+      "headline": "Trump faces growing backlash over plans to import diesel from Russia",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "trump",
+        "faces",
+        "growing",
+        "backlash",
         "over",
-        "trump"
+        "plans"
       ]
     },
     {
-      "id": "live-al jazeera-1791701297270-3",
+      "id": "live-bbc-1791788309327-2",
       "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 04:30:10 +0000",
-      "headline": "US opens antitrust probe into TV networks for halting Trump coverage",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-      "keywords": [
-        "opens",
-        "antitrust",
-        "probe",
-        "into",
-        "networks",
-        "halting"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791701297270-4",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 04:28:51 +0000",
-      "headline": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
-      "keywords": [
-        "hurricane",
-        "isaias",
-        "kills",
-        "four,",
-        "leaves",
-        "650,000"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791701297270-5",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 04:10:08 +0000",
-      "headline": "ICE agent in New York shooting also involved in assault of pregnant woman",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
-      "keywords": [
-        "agent",
-        "york",
-        "shooting",
-        "also",
-        "involved",
-        "assault"
-      ]
-    },
-    {
-      "id": "live-bbc-1791701297589-0",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 03:57:22 GMT",
-      "headline": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "realPubDate": "Sun, 11 Oct 2026 22:45:58 GMT",
+      "headline": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "twelve",
-        "killed",
+        "killed,",
         "injured",
-        "attack",
-        "airport",
-        "saudi"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791701297270-6",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 03:41:58 +0000",
-      "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
-      "keywords": [
-        "taiz",
-        "hospitals",
-        "near",
-        "collapse",
-        "houthis",
-        "tighten"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791701297270-7",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 03:13:53 +0000",
-      "headline": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
-      "keywords": [
-        "forces",
-        "disable",
-        "ship",
-        "‘attempting",
-        "run’",
-        "iran"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791701297270-8",
-      "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 02:12:07 +0000",
-      "headline": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-      "keywords": [
-        "world",
-        "condemns",
-        "deadly",
+        "second",
         "houthi",
-        "attack",
-        "saudi"
+        "strike",
+        "riyadh"
       ]
     },
     {
-      "id": "live-al jazeera-1791701297270-9",
+      "id": "live-bbc-1791788309327-0",
       "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 01:59:02 +0000",
-      "headline": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+      "realPubDate": "Sun, 11 Oct 2026 21:36:40 GMT",
+      "headline": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "trump",
-        "‘may’",
-        "join",
-        "saudi",
+        "zelensky",
+        "backs",
+        "trump's",
+        "'energy",
+        "ceasefire'",
+        "says"
+      ]
+    },
+    {
+      "id": "live-bbc-1791788309327-5",
+      "date": "11 Oct 2026",
+      "realPubDate": "Sun, 11 Oct 2026 21:12:44 GMT",
+      "headline": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "dozens",
+        "gold",
+        "prospectors",
+        "killed",
         "strikes",
-        "houthis"
+        "egypt-sudan"
       ]
     },
     {
-      "id": "live-bbc-1791701297589-1",
+      "id": "live-bbc-1791788309327-4",
       "date": "11 Oct 2026",
-      "realPubDate": "Sun, 11 Oct 2026 01:41:29 GMT",
-      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "realPubDate": "Sun, 11 Oct 2026 17:27:24 GMT",
+      "headline": "Poland detains man suspected of planning assassination of PM Tusk",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "'time",
-        "ukraine",
-        "president,'",
-        "says",
-        "trump",
-        "after"
+        "poland",
+        "detains",
+        "suspected",
+        "planning",
+        "assassination",
+        "tusk"
       ]
     },
     {
-      "id": "live-bbc-1791701297590-7",
-      "date": "10 Oct 2026",
-      "realPubDate": "Sat, 10 Oct 2026 23:19:55 GMT",
-      "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "id": "live-bbc-1791788309327-9",
+      "date": "11 Oct 2026",
+      "realPubDate": "Sun, 11 Oct 2026 15:32:23 GMT",
+      "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "four",
+        "children",
+        "among",
         "dead",
-        "thousands",
-        "without",
-        "power",
-        "after"
-      ]
-    },
-    {
-      "id": "live-bbc-1791701297590-2",
-      "date": "10 Oct 2026",
-      "realPubDate": "Sat, 10 Oct 2026 22:13:08 GMT",
-      "headline": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "young",
-        "live",
-        "fear",
-        "being",
-        "snatched",
-        "streets"
-      ]
-    },
-    {
-      "id": "live-bbc-1791701297590-5",
-      "date": "10 Oct 2026",
-      "realPubDate": "Sat, 10 Oct 2026 20:51:12 GMT",
-      "headline": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "russian",
-        "glide",
-        "bomb",
-        "attack",
-        "zaporizhzhia",
-        "kills"
-      ]
-    },
-    {
-      "id": "live-bbc-1791701297590-6",
-      "date": "10 Oct 2026",
-      "realPubDate": "Sat, 10 Oct 2026 18:22:29 GMT",
-      "headline": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "expedition",
-        "hopes",
-        "find",
-        "aviator",
-        "amelia",
-        "earhart's"
-      ]
-    },
-    {
-      "id": "live-bbc-1791701297590-4",
-      "date": "10 Oct 2026",
-      "realPubDate": "Sat, 10 Oct 2026 17:44:26 GMT",
-      "headline": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "murderer",
-        "christa",
-        "pike",
-        "discharged",
-        "from",
-        "hospital"
-      ]
-    },
-    {
-      "id": "live-bbc-1791701297590-9",
-      "date": "10 Oct 2026",
-      "realPubDate": "Sat, 10 Oct 2026 12:28:51 GMT",
-      "headline": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "headmaster",
-        "detained",
         "after",
-        "investigation",
-        "into",
-        "alleged"
+        "boat",
+        "capsizes"
+      ]
+    },
+    {
+      "id": "live-bbc-1791788309327-8",
+      "date": "11 Oct 2026",
+      "realPubDate": "Sun, 11 Oct 2026 15:18:52 GMT",
+      "headline": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "poland",
+        "stabbings",
+        "driven",
+        "online",
+        "glorification",
+        "violence,"
       ]
     }
   ]
