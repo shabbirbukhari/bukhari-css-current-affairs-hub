@@ -1,324 +1,325 @@
 {
-  "lastUpdated": "2026-10-13T07:21:31.481Z",
-  "lastUpdatedDisplay": "13 Oct 2026, 07:21",
+  "lastUpdated": "2026-10-14T05:48:56.029Z",
+  "lastUpdatedDisplay": "14 Oct 2026, 05:48",
   "news": [
     {
-      "id": "live-bbc-1791876091095-4",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 06:58:20 GMT",
-      "headline": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "id": "live-al jazeera-1791956935547-0",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 05:07:55 +0000",
+      "headline": "Ukrainian drones strike more than 100km into Russian territory",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
+      "keywords": [
+        "ukrainian",
+        "drones",
+        "strike",
+        "more",
+        "than",
+        "100km"
+      ]
+    },
+    {
+      "id": "live-bbc-1791956935775-7",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 04:36:06 GMT",
+      "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "india",
-        "'cockroach'",
-        "leaders",
-        "detained",
+        "russian",
+        "strikes",
+        "power",
+        "plant",
+        "kyiv,",
+        "zelensky"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791956935547-1",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 04:27:18 +0000",
+      "headline": "China and North Korea to open New Yalu River Bridge, state media reports",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+      "keywords": [
+        "china",
+        "north",
+        "korea",
+        "open",
+        "yalu",
+        "river"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791956935547-2",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 04:25:02 +0000",
+      "headline": "Singapore’s economy grows more than 5 percent amid AI boom",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
+      "keywords": [
+        "singapore’s",
+        "economy",
+        "grows",
+        "more",
+        "than",
+        "percent"
+      ]
+    },
+    {
+      "id": "live-bbc-1791956935774-4",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 04:20:17 GMT",
+      "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "missiles",
+        "intercepted",
+        "near",
+        "riyadh",
         "after",
-        "entering"
+        "saudi"
       ]
     },
     {
-      "id": "live-al jazeera-1791876090918-0",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 06:42:58 +0000",
-      "headline": "Emir says Qatar has shown resilience in face of ‘exceptional events’",
+      "id": "live-al jazeera-1791956935548-3",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 04:16:13 +0000",
+      "headline": "Saudi-born engineer for OpenAI arrested for planting listening bug",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
       "keywords": [
-        "emir",
+        "saudi-born",
+        "engineer",
+        "openai",
+        "arrested",
+        "planting",
+        "listening"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791956935548-4",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 03:57:24 +0000",
+      "headline": "UN official says ‘window of opportunity’ for peace in DR Congo",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+      "keywords": [
+        "official",
         "says",
-        "qatar",
-        "shown",
-        "resilience",
-        "face"
+        "‘window",
+        "opportunity’",
+        "peace",
+        "congo"
       ]
     },
     {
-      "id": "live-al jazeera-1791876090918-1",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 06:42:02 +0000",
-      "headline": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
+      "id": "live-al jazeera-1791956935548-5",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 03:23:08 +0000",
+      "headline": "Israel returns 22 stolen ancient artefacts to Greece",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
       "keywords": [
-        "malaysia’s",
-        "firefly",
-        "cancels",
-        "flights",
-        "singapore",
+        "israel",
+        "returns",
+        "stolen",
+        "ancient",
+        "artefacts",
+        "greece"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791956935548-6",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 03:09:46 +0000",
+      "headline": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+      "keywords": [
+        "houthi",
+        "missiles",
+        "intercepted",
+        "over",
+        "saudi",
+        "arabia"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1791956935548-7",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 03:06:42 +0000",
+      "headline": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
+      "keywords": [
+        "ukrainian",
+        "ex-officer",
+        "goes",
+        "trial",
+        "germany",
         "over"
       ]
     },
     {
-      "id": "live-al jazeera-1791876090918-2",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 06:32:43 +0000",
-      "headline": "Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa",
+      "id": "live-al jazeera-1791956935548-8",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 02:55:15 +0000",
+      "headline": "UN Human Rights Council elects 15 members in uncontested vote",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/14/un-human-rights-council-elects-15-members-in-uncontested-vote?traffic_source=rss",
       "keywords": [
-        "imran",
-        "khan’s",
-        "braces",
-        "fight",
-        "federal",
-        "takeover"
+        "human",
+        "rights",
+        "council",
+        "elects",
+        "members",
+        "uncontested"
       ]
     },
     {
-      "id": "live-bbc-1791876091095-1",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 06:26:05 GMT",
-      "headline": "Breaking Bad actor RJ Mitte dies aged 34",
+      "id": "live-al jazeera-1791956935548-9",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 02:45:40 +0000",
+      "headline": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
+      "keywords": [
+        "kyiv",
+        "russian",
+        "ballistic",
+        "missiles",
+        "second",
+        "with"
+      ]
+    },
+    {
+      "id": "live-bbc-1791956935774-5",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 02:05:32 GMT",
+      "headline": "Bank of America hit with $1.2bn fine for money laundering failings",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "breaking",
-        "actor",
-        "mitte",
-        "dies",
-        "aged"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791876090918-3",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 05:59:48 +0000",
-      "headline": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
-      "keywords": [
-        "middle",
-        "east",
-        "central",
-        "asia’s",
-        "economy",
-        "shrink"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791876090918-4",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 05:55:19 +0000",
-      "headline": "Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/13/michael-jordans-last-dance-nba-finals-jersey-sells-for-record-14m?traffic_source=rss",
-      "keywords": [
-        "michael",
-        "jordan’s",
-        "‘last",
-        "dance’",
-        "finals",
-        "jersey"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791876090918-5",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 05:40:10 +0000",
-      "headline": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears?traffic_source=rss",
-      "keywords": [
-        "despite",
-        "long",
-        "history",
+        "bank",
+        "america",
         "with",
-        "netanyahu,",
-        "trump"
+        "$1.2bn",
+        "fine",
+        "money"
       ]
     },
     {
-      "id": "live-bbc-1791876091095-0",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 05:02:34 GMT",
-      "headline": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "id": "live-bbc-1791956935774-0",
+      "date": "14 Oct 2026",
+      "realPubDate": "Wed, 14 Oct 2026 00:17:00 GMT",
+      "headline": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "russia's",
-        "offensive",
-        "ability",
-        "broken,",
-        "kyiv's",
-        "former"
+        "pope",
+        "diagnosed",
+        "with",
+        "lung",
+        "cancer",
+        "successful"
       ]
     },
     {
-      "id": "live-al jazeera-1791876090918-6",
+      "id": "live-bbc-1791956935774-2",
       "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 05:01:14 +0000",
-      "headline": "More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region?traffic_source=rss",
-      "keywords": [
-        "more",
-        "than",
-        "foreign",
-        "trekkers",
-        "stranded",
-        "floods"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791876090918-7",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 04:48:29 +0000",
-      "headline": "Man dies after fall from Six Flags rollercoaster in Georgia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia?traffic_source=rss",
-      "keywords": [
-        "dies",
-        "after",
-        "fall",
-        "from",
-        "flags",
-        "rollercoaster"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791876090918-8",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 04:47:00 +0000",
-      "headline": "AI could self-replicate on home devices within ‘months’, Anthropic says",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss",
-      "keywords": [
-        "could",
-        "self-replicate",
-        "home",
-        "devices",
-        "within",
-        "‘months’,"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1791876090918-9",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 04:09:52 +0000",
-      "headline": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
-      "keywords": [
-        "ronaldo",
-        "waves",
-        "saudi-flag",
-        "scarf",
-        "after",
-        "match"
-      ]
-    },
-    {
-      "id": "live-bbc-1791876091095-6",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 04:04:57 GMT",
-      "headline": "Watch: US man eyes pumpkin world record after fifth contest win",
+      "realPubDate": "Tue, 13 Oct 2026 23:42:22 GMT",
+      "headline": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "watch:",
-        "eyes",
-        "pumpkin",
-        "world",
-        "record",
-        "after"
-      ]
-    },
-    {
-      "id": "live-bbc-1791876091095-3",
-      "date": "13 Oct 2026",
-      "realPubDate": "Tue, 13 Oct 2026 02:26:21 GMT",
-      "headline": "One dead and several hurt after rollercoaster incident at Six Flags",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "dead",
-        "several",
-        "hurt",
-        "after",
-        "rollercoaster",
-        "incident"
-      ]
-    },
-    {
-      "id": "live-bbc-1791876091095-5",
-      "date": "12 Oct 2026",
-      "realPubDate": "Mon, 12 Oct 2026 22:30:55 GMT",
-      "headline": "The island where locals say data centres are taking their water",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "island",
-        "where",
-        "locals",
-        "data",
-        "centres",
-        "taking"
-      ]
-    },
-    {
-      "id": "live-bbc-1791876091096-9",
-      "date": "12 Oct 2026",
-      "realPubDate": "Mon, 12 Oct 2026 22:05:31 GMT",
-      "headline": "Immigration agents search congresswoman Ilhan Omar's home",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "immigration",
-        "agents",
-        "search",
-        "congresswoman",
-        "ilhan",
-        "omar's"
-      ]
-    },
-    {
-      "id": "live-bbc-1791876091095-2",
-      "date": "12 Oct 2026",
-      "realPubDate": "Mon, 12 Oct 2026 21:20:51 GMT",
-      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
+        "germany",
+        "puts",
         "ukrainian",
-        "energy",
-        "sites",
-        "russia",
-        "since",
-        "trump"
+        "trial",
+        "accused",
+        "blowing"
       ]
     },
     {
-      "id": "live-bbc-1791876091095-7",
-      "date": "12 Oct 2026",
-      "realPubDate": "Mon, 12 Oct 2026 16:46:49 GMT",
-      "headline": "South Africa's deputy police chief resigns after being charged with sexual offences",
+      "id": "live-bbc-1791956935775-9",
+      "date": "13 Oct 2026",
+      "realPubDate": "Tue, 13 Oct 2026 23:31:10 GMT",
+      "headline": "Zimbabwean author denies using AI to write award-winning story",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "south",
-        "africa's",
-        "deputy",
-        "police",
+        "zimbabwean",
+        "author",
+        "denies",
+        "using",
+        "write",
+        "award-winning"
+      ]
+    },
+    {
+      "id": "live-bbc-1791956935774-1",
+      "date": "13 Oct 2026",
+      "realPubDate": "Tue, 13 Oct 2026 21:42:49 GMT",
+      "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "saudi",
+        "charged",
+        "with",
+        "planting",
+        "'sophisticated'",
+        "recording"
+      ]
+    },
+    {
+      "id": "live-bbc-1791956935775-8",
+      "date": "13 Oct 2026",
+      "realPubDate": "Tue, 13 Oct 2026 19:51:14 GMT",
+      "headline": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "ex-gang",
+        "boss",
+        "sentenced",
+        "years",
+        "orchestrating",
+        "tupac"
+      ]
+    },
+    {
+      "id": "live-bbc-1791956935774-6",
+      "date": "13 Oct 2026",
+      "realPubDate": "Tue, 13 Oct 2026 19:23:28 GMT",
+      "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "trump",
+        "ousts",
+        "kimberly",
+        "guilfoyle",
+        "ambassador",
+        "greece"
+      ]
+    },
+    {
+      "id": "live-bbc-1791956935774-3",
+      "date": "13 Oct 2026",
+      "realPubDate": "Tue, 13 Oct 2026 15:52:15 GMT",
+      "headline": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
         "chief",
-        "resigns"
-      ]
-    },
-    {
-      "id": "live-bbc-1791876091096-8",
-      "date": "12 Oct 2026",
-      "realPubDate": "Mon, 12 Oct 2026 05:00:52 GMT",
-      "headline": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "documents",
-        "falsified",
-        "evade",
-        "abramovich's",
-        "wealth,",
-        "finds"
+        "warns",
+        "threats",
+        "from",
+        "russia,",
+        "iran"
       ]
     }
   ]
