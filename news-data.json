@@ -1,325 +1,322 @@
 {
-  "lastUpdated": "2026-10-15T05:34:03.025Z",
-  "lastUpdatedDisplay": "15 Oct 2026, 05:34",
+  "lastUpdated": "2026-10-16T05:26:59.168Z",
+  "lastUpdatedDisplay": "16 Oct 2026, 05:26",
   "news": [
     {
-      "id": "live-al jazeera-1792042442432-0",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 04:43:15 +0000",
-      "headline": "Israel has detained more than 2,000 Palestinian children since 2023: report",
+      "id": "live-al jazeera-1792128418642-0",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 05:00:25 +0000",
+      "headline": "Bystander guns down suspected primary school shooter in Oregon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss",
       "keywords": [
-        "israel",
-        "detained",
-        "more",
-        "than",
-        "2,000",
-        "palestinian"
+        "bystander",
+        "guns",
+        "down",
+        "suspected",
+        "primary",
+        "school"
       ]
     },
     {
-      "id": "live-bbc-1792042442678-0",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 04:30:08 GMT",
-      "headline": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "id": "live-bbc-1792128418819-2",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 05:00:17 GMT",
+      "headline": "Ship attack reports near Hormuz reach record high as oil exports slow",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "musk",
-        "says",
-        "government",
-        "behind",
-        "slowdown",
-        "ukraine"
-      ]
-    },
-    {
-      "id": "live-bbc-1792042442679-7",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 04:19:17 GMT",
-      "headline": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "anthropic",
-        "flags",
-        "revenue",
-        "surge",
-        "investors",
-        "ahead"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442432-1",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 04:19:06 +0000",
-      "headline": "Heavy rain causes mass pileup in Brazil tunnel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
-      "keywords": [
-        "heavy",
-        "rain",
-        "causes",
-        "mass",
-        "pileup",
-        "brazil"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442432-2",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 04:15:55 +0000",
-      "headline": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss",
-      "keywords": [
-        "suspends",
-        "13,000",
-        "accounts,",
-        "alleging",
-        "foreign",
-        "influence"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442432-3",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 03:50:14 +0000",
-      "headline": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
-      "keywords": [
-        "argentina’s",
-        "milei",
-        "backs",
-        "trump",
-        "midterms,",
-        "calls"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442432-4",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 03:30:42 +0000",
-      "headline": "Albanian Ministry of Justice on fire as education protesters riot",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
-      "keywords": [
-        "albanian",
-        "ministry",
-        "justice",
-        "fire",
-        "education",
-        "protesters"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442433-5",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 03:28:44 +0000",
-      "headline": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss",
-      "keywords": [
-        "openai",
-        "bugging",
-        "suspect",
-        "allegedly",
-        "booked",
-        "one-way"
-      ]
-    },
-    {
-      "id": "live-bbc-1792042442678-4",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 03:26:36 GMT",
-      "headline": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "'nowhere",
-        "escape'",
-        "indonesians",
-        "share",
-        "footage",
-        "orange"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442433-6",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 03:23:49 +0000",
-      "headline": "North Korea tests two submarine-launched missiles, state media reports",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
-      "keywords": [
-        "north",
-        "korea",
-        "tests",
-        "submarine-launched",
-        "missiles,",
-        "state"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442433-7",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 03:12:02 +0000",
-      "headline": "Teenager dies as heavy rain floods Istanbul",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
-      "keywords": [
-        "teenager",
-        "dies",
-        "heavy",
-        "rain",
-        "floods",
-        "istanbul"
-      ]
-    },
-    {
-      "id": "live-bbc-1792042442678-3",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 03:03:16 GMT",
-      "headline": "White House defends new press secretary amid questions about her legal credentials",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "white",
-        "house",
-        "defends",
-        "press",
-        "secretary",
-        "amid"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442433-8",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 03:03:00 +0000",
-      "headline": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
-      "keywords": [
-        "trump",
-        "administration",
-        "seeks",
-        "strip",
-        "ilhan",
-        "omar"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792042442433-9",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 02:54:31 +0000",
-      "headline": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
-      "keywords": [
-        "trump",
-        "plays",
-        "muslim",
-        "brotherhood",
-        "card",
-        "against"
-      ]
-    },
-    {
-      "id": "live-bbc-1792042442678-2",
-      "date": "15 Oct 2026",
-      "realPubDate": "Thu, 15 Oct 2026 02:26:07 GMT",
-      "headline": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "retired",
-        "generals",
-        "call",
-        "pentagon",
-        "cancel",
-        "'barbaric'"
-      ]
-    },
-    {
-      "id": "live-bbc-1792042442679-9",
-      "date": "14 Oct 2026",
-      "realPubDate": "Wed, 14 Oct 2026 22:31:10 GMT",
-      "headline": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "australia's",
-        "first-ever",
-        "michelin",
-        "stars",
-        "restaurants",
-        "state"
-      ]
-    },
-    {
-      "id": "live-bbc-1792042442678-5",
-      "date": "14 Oct 2026",
-      "realPubDate": "Wed, 14 Oct 2026 22:19:13 GMT",
-      "headline": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "brooklyn",
-        "novelty",
-        "shop",
-        "reeling",
-        "from",
-        "'surreal'"
-      ]
-    },
-    {
-      "id": "live-bbc-1792042442678-1",
-      "date": "14 Oct 2026",
-      "realPubDate": "Wed, 14 Oct 2026 20:29:05 GMT",
-      "headline": "Student protesters attack government buildings in Albania",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "student",
-        "protesters",
+        "ship",
         "attack",
-        "government",
-        "buildings",
-        "albania"
+        "reports",
+        "near",
+        "hormuz",
+        "reach"
       ]
     },
     {
-      "id": "live-bbc-1792042442678-6",
-      "date": "14 Oct 2026",
-      "realPubDate": "Wed, 14 Oct 2026 16:56:21 GMT",
-      "headline": "Sally Rooney books withdrawn in UK over Palestine Action support",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1792128418642-1",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 04:45:24 +0000",
+      "headline": "Infantino apologises amid calls for him to quit as FIFA president",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
       "keywords": [
-        "sally",
-        "rooney",
-        "books",
-        "withdrawn",
+        "infantino",
+        "apologises",
+        "amid",
+        "calls",
+        "quit",
+        "fifa"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418818-0",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 03:45:09 GMT",
+      "headline": "Three children and teacher killed in US primary school shooting",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "three",
+        "children",
+        "teacher",
+        "killed",
+        "primary",
+        "school"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792128418642-2",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 02:56:21 +0000",
+      "headline": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+      "keywords": [
+        "china",
+        "tells",
+        "israel",
+        "stop",
+        "‘forced",
+        "establishment’"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792128418642-3",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 02:35:57 +0000",
+      "headline": "Residents douse workers with flaming gasoline during eviction in Peru",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss",
+      "keywords": [
+        "residents",
+        "douse",
+        "workers",
+        "with",
+        "flaming",
+        "gasoline"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792128418642-4",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 02:11:33 +0000",
+      "headline": "Argentine students protest on campus over Milei’s austerity",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+      "keywords": [
+        "argentine",
+        "students",
+        "protest",
+        "campus",
         "over",
-        "palestine"
+        "milei’s"
       ]
     },
     {
-      "id": "live-bbc-1792042442679-8",
-      "date": "14 Oct 2026",
-      "realPubDate": "Wed, 14 Oct 2026 16:47:32 GMT",
-      "headline": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1792128418642-5",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 02:01:43 +0000",
+      "headline": "Peshawar mourns children killed in school roof collapse",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
       "keywords": [
-        "netflix",
-        "shed",
-        "1,000",
-        "jobs",
-        "steepest",
-        "cuts"
+        "peshawar",
+        "mourns",
+        "children",
+        "killed",
+        "school",
+        "roof"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792128418642-6",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 02:01:15 +0000",
+      "headline": "Progressives, AIPAC and the future of the Democratic Party",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss",
+      "keywords": [
+        "progressives,",
+        "aipac",
+        "future",
+        "democratic",
+        "party"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418818-1",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 01:36:45 GMT",
+      "headline": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "'it's",
+        "really",
+        "hard",
+        "believe'",
+        "oregon",
+        "primary"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792128418642-7",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 01:34:47 +0000",
+      "headline": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+      "keywords": [
+        "myanmar’s",
+        "coup",
+        "leader-turned-president",
+        "wins",
+        "back",
+        "neighbours"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792128418642-8",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 01:19:25 +0000",
+      "headline": "Clashes erupt at protest over university funding law in Argentina",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+      "keywords": [
+        "clashes",
+        "erupt",
+        "protest",
+        "over",
+        "university",
+        "funding"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792128418642-9",
+      "date": "16 Oct 2026",
+      "realPubDate": "Fri, 16 Oct 2026 01:12:26 +0000",
+      "headline": "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss",
+      "keywords": [
+        "zimbabwe’s",
+        "trust",
+        "replace",
+        "dollar?"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418819-9",
+      "date": "15 Oct 2026",
+      "realPubDate": "Thu, 15 Oct 2026 23:38:46 GMT",
+      "headline": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "houthi",
+        "missile",
+        "attack",
+        "yemeni",
+        "presidential",
+        "palace"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418819-8",
+      "date": "15 Oct 2026",
+      "realPubDate": "Thu, 15 Oct 2026 23:27:21 GMT",
+      "headline": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "tip-off",
+        "foiled",
+        "teen",
+        "suspect's",
+        "plot",
+        "attack"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418819-5",
+      "date": "15 Oct 2026",
+      "realPubDate": "Thu, 15 Oct 2026 22:37:21 GMT",
+      "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "hits",
+        "train",
+        "stopped",
+        "french",
+        "side",
+        "channel"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418819-3",
+      "date": "15 Oct 2026",
+      "realPubDate": "Thu, 15 Oct 2026 17:47:22 GMT",
+      "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "trump",
+        "calls",
+        "livestream",
+        "fort",
+        "hood",
+        "attacker's"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418819-6",
+      "date": "15 Oct 2026",
+      "realPubDate": "Thu, 15 Oct 2026 16:52:44 GMT",
+      "headline": "Maduro pleads not guilty to new torture-related charges in New York",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "maduro",
+        "pleads",
+        "guilty",
+        "torture-related",
+        "charges",
+        "york"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418819-4",
+      "date": "15 Oct 2026",
+      "realPubDate": "Thu, 15 Oct 2026 16:50:18 GMT",
+      "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "russia",
+        "accuses",
+        "ukraine",
+        "attacking",
+        "refinery",
+        "after"
+      ]
+    },
+    {
+      "id": "live-bbc-1792128418819-7",
+      "date": "15 Oct 2026",
+      "realPubDate": "Thu, 15 Oct 2026 15:26:16 GMT",
+      "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "least",
+        "pupils",
+        "teacher",
+        "killed",
+        "after",
+        "school"
       ]
     }
   ]
