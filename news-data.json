@@ -1,12 +1,204 @@
 {
-  "lastUpdated": "2026-10-17T05:19:18.931Z",
-  "lastUpdatedDisplay": "17 Oct 2026, 05:19",
+  "lastUpdated": "2026-10-18T05:26:14.483Z",
+  "lastUpdatedDisplay": "18 Oct 2026, 05:26",
   "news": [
     {
-      "id": "live-bbc-1792214358635-1",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 05:02:50 GMT",
-      "headline": "Trump waives several Russia sanctions as new US law takes effect",
+      "id": "live-bbc-1792301174197-1",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 05:04:31 GMT",
+      "headline": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "wave",
+        "homemade,",
+        "synthetic",
+        "drugs",
+        "sweeps",
+        "deepens"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174140-0",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 04:59:29 +0000",
+      "headline": "Deaths, injuries after fire at Alberta military base: Canada minister",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+      "keywords": [
+        "deaths,",
+        "injuries",
+        "after",
+        "fire",
+        "alberta",
+        "military"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174140-1",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 04:51:01 +0000",
+      "headline": "St Petersburg under attack from Ukrainian drone swarm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+      "keywords": [
+        "petersburg",
+        "under",
+        "attack",
+        "from",
+        "ukrainian",
+        "drone"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174140-2",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 04:46:17 +0000",
+      "headline": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
+      "keywords": [
+        "police",
+        "rule",
+        "probe",
+        "into",
+        "palestine",
+        "action"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174140-3",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 04:21:46 +0000",
+      "headline": "At least 19 dead in stampede at Kolkata Hindu festival",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+      "keywords": [
+        "least",
+        "dead",
+        "stampede",
+        "kolkata",
+        "hindu",
+        "festival"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174140-4",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 04:14:42 +0000",
+      "headline": "Tunisia’s economic crisis deepens as the promise of a better life fades",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+      "keywords": [
+        "tunisia’s",
+        "economic",
+        "crisis",
+        "deepens",
+        "promise",
+        "better"
+      ]
+    },
+    {
+      "id": "live-bbc-1792301174197-3",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 04:00:50 GMT",
+      "headline": "Deaths confirmed in major fire at Canada military base",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "deaths",
+        "confirmed",
+        "major",
+        "fire",
+        "canada",
+        "military"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174140-5",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 03:44:25 +0000",
+      "headline": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+      "keywords": [
+        "rubio",
+        "wants",
+        "‘crackdown’",
+        "settler",
+        "violence",
+        "after"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174141-6",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 02:33:14 +0000",
+      "headline": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
+      "keywords": [
+        "search",
+        "continues",
+        "missing",
+        "after",
+        "boat",
+        "sank"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174141-7",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 02:21:48 +0000",
+      "headline": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+      "keywords": [
+        "fears",
+        "grow",
+        "former",
+        "president",
+        "joseph",
+        "kabila"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174141-8",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 01:54:18 +0000",
+      "headline": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "keywords": [
+        "iran",
+        "says",
+        "tankers",
+        "catch",
+        "fire",
+        "after"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792301174141-9",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 01:30:46 +0000",
+      "headline": "Buildings burn as French protests go into the night",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
+      "keywords": [
+        "buildings",
+        "burn",
+        "french",
+        "protests",
+        "into",
+        "night"
+      ]
+    },
+    {
+      "id": "live-bbc-1792301174197-4",
+      "date": "18 Oct 2026",
+      "realPubDate": "Sun, 18 Oct 2026 01:10:25 GMT",
+      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
@@ -15,310 +207,119 @@
         "several",
         "russia",
         "sanctions",
-        "takes"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-0",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 04:45:03 +0000",
-      "headline": "Trump puts on hold new Russia sanctions he signed into law",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
-      "keywords": [
-        "trump",
-        "puts",
-        "hold",
-        "russia",
-        "sanctions",
-        "signed"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-1",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 04:21:18 +0000",
-      "headline": "Albania’s PM blames ‘foreign hands’ for protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
-      "keywords": [
-        "albania’s",
-        "blames",
-        "‘foreign",
-        "hands’",
-        "protests"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-2",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 03:30:36 +0000",
-      "headline": "Southern California wildfire engulfs homes, prompts evacuation orders",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
-      "keywords": [
-        "southern",
-        "california",
-        "wildfire",
-        "engulfs",
-        "homes,",
-        "prompts"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-3",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 03:14:28 +0000",
-      "headline": "Cameroonians await government reshuffle after Biya’s return",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
-      "keywords": [
-        "cameroonians",
-        "await",
-        "government",
-        "reshuffle",
-        "after",
-        "biya’s"
-      ]
-    },
-    {
-      "id": "live-bbc-1792214358636-3",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 03:11:10 GMT",
-      "headline": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "three",
-        "jailed",
-        "years",
-        "each",
-        "murdering",
-        "australian"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-4",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 02:49:21 +0000",
-      "headline": "Brazil’s Amazon deforestation hits lowest level on record",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
-      "keywords": [
-        "brazil’s",
-        "amazon",
-        "deforestation",
-        "hits",
-        "lowest",
-        "level"
-      ]
-    },
-    {
-      "id": "live-bbc-1792214358635-0",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 02:33:09 GMT",
-      "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "brazil",
-        "sees",
-        "record",
-        "fall",
-        "amazon",
-        "deforestation"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-5",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 01:37:07 +0000",
-      "headline": "Healthcare crisis escalating in Yemen’s besieged Taiz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
-      "keywords": [
-        "healthcare",
-        "crisis",
-        "escalating",
-        "yemen’s",
-        "besieged",
-        "taiz"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-6",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 01:33:37 +0000",
-      "headline": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
-      "keywords": [
-        "coastguard",
-        "rescues",
-        "after",
-        "boat",
-        "sinks",
-        "mexico’s"
-      ]
-    },
-    {
-      "id": "live-bbc-1792214358635-2",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 01:19:04 GMT",
-      "headline": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "oregon",
-        "teacher",
-        "fought",
-        "school",
-        "attacker",
-        "before"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-7",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 00:25:22 +0000",
-      "headline": "Oregon school shooter was former special needs student, police say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
-      "keywords": [
-        "oregon",
-        "school",
-        "shooter",
-        "former",
-        "special",
-        "needs"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-8",
-      "date": "17 Oct 2026",
-      "realPubDate": "Sat, 17 Oct 2026 00:00:00 +0000",
-      "headline": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-      "keywords": [
-        "iran",
-        "live:",
-        "irgc",
-        "says",
-        "supertanker",
-        "naval"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792214358432-9",
-      "date": "16 Oct 2026",
-      "realPubDate": "Fri, 16 Oct 2026 23:55:57 +0000",
-      "headline": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
-      "keywords": [
-        "trump",
-        "mocks",
-        "middle",
-        "eastern",
-        "names",
         "with"
       ]
     },
     {
-      "id": "live-bbc-1792214358636-7",
-      "date": "16 Oct 2026",
-      "realPubDate": "Fri, 16 Oct 2026 23:54:35 GMT",
-      "headline": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "id": "live-bbc-1792301174197-2",
+      "date": "17 Oct 2026",
+      "realPubDate": "Sat, 17 Oct 2026 23:52:38 GMT",
+      "headline": "European diplomats attacked by Israeli settlers in West Bank",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "trump",
-        "'completely",
-        "wrong'",
-        "restrict",
-        "support",
-        "ukraine,"
-      ]
-    },
-    {
-      "id": "live-bbc-1792214358636-9",
-      "date": "16 Oct 2026",
-      "realPubDate": "Fri, 16 Oct 2026 23:20:37 GMT",
-      "headline": "Pope pictured for first time since surgery and cancer diagnosis",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "pope",
-        "pictured",
-        "first",
-        "time",
-        "since",
-        "surgery"
-      ]
-    },
-    {
-      "id": "live-bbc-1792214358636-8",
-      "date": "16 Oct 2026",
-      "realPubDate": "Fri, 16 Oct 2026 23:07:18 GMT",
-      "headline": "Trial of German steakhouse heiress that sparked a huge spy scandal",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "trial",
-        "german",
-        "steakhouse",
-        "heiress",
-        "that",
-        "sparked"
-      ]
-    },
-    {
-      "id": "live-bbc-1792214358636-6",
-      "date": "16 Oct 2026",
-      "realPubDate": "Fri, 16 Oct 2026 21:05:05 GMT",
-      "headline": "Katie Zacharia leaving her White House role less than five days on the job",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "katie",
-        "zacharia",
-        "leaving",
-        "white",
-        "house",
-        "role"
-      ]
-    },
-    {
-      "id": "live-bbc-1792214358636-4",
-      "date": "16 Oct 2026",
-      "realPubDate": "Fri, 16 Oct 2026 16:00:30 GMT",
-      "headline": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "inside",
-        "ukrainian",
-        "offensive",
-        "pushing",
-        "russia",
-        "back"
-      ]
-    },
-    {
-      "id": "live-bbc-1792214358636-5",
-      "date": "16 Oct 2026",
-      "realPubDate": "Fri, 16 Oct 2026 14:31:04 GMT",
-      "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "palestinians",
-        "journalist",
-        "injured",
+        "european",
+        "diplomats",
+        "attacked",
         "israeli",
         "settlers",
         "west"
+      ]
+    },
+    {
+      "id": "live-bbc-1792301174197-6",
+      "date": "17 Oct 2026",
+      "realPubDate": "Sat, 17 Oct 2026 22:09:50 GMT",
+      "headline": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "photos",
+        "show",
+        "luxury",
+        "boat",
+        "with",
+        "pool"
+      ]
+    },
+    {
+      "id": "live-bbc-1792301174197-5",
+      "date": "17 Oct 2026",
+      "realPubDate": "Sat, 17 Oct 2026 20:53:00 GMT",
+      "headline": "Anti-government protesters battle with police in Albania",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "anti-government",
+        "protesters",
+        "battle",
+        "with",
+        "police",
+        "albania"
+      ]
+    },
+    {
+      "id": "live-bbc-1792301174197-0",
+      "date": "17 Oct 2026",
+      "realPubDate": "Sat, 17 Oct 2026 20:52:17 GMT",
+      "headline": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "violent",
+        "clashes,",
+        "looting",
+        "buildings",
+        "ablaze",
+        "france"
+      ]
+    },
+    {
+      "id": "live-bbc-1792301174197-7",
+      "date": "17 Oct 2026",
+      "realPubDate": "Sat, 17 Oct 2026 19:19:16 GMT",
+      "headline": "At least 17 dead in crush at Hindu festival event in India",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "least",
+        "dead",
+        "crush",
+        "hindu",
+        "festival",
+        "event"
+      ]
+    },
+    {
+      "id": "live-bbc-1792301174197-9",
+      "date": "17 Oct 2026",
+      "realPubDate": "Sat, 17 Oct 2026 12:11:58 GMT",
+      "headline": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "nursery",
+        "owner",
+        "china",
+        "jailed",
+        "life",
+        "after"
+      ]
+    },
+    {
+      "id": "live-bbc-1792301174197-8",
+      "date": "17 Oct 2026",
+      "realPubDate": "Sat, 17 Oct 2026 09:58:17 GMT",
+      "headline": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "teacher",
+        "fought",
+        "school",
+        "attacker",
+        "before",
+        "armed"
       ]
     }
   ]
