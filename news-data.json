@@ -1,322 +1,324 @@
 {
-  "lastUpdated": "2026-10-20T05:40:03.505Z",
-  "lastUpdatedDisplay": "20 Oct 2026, 05:40",
+  "lastUpdated": "2026-10-21T05:43:19.114Z",
+  "lastUpdatedDisplay": "21 Oct 2026, 05:43",
   "news": [
     {
-      "id": "live-al jazeera-1792474803317-0",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 05:25:31 +0000",
-      "headline": "Israel’s elections 2026 explained in maps and charts",
+      "id": "live-al jazeera-1792561398699-0",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 05:33:20 +0000",
+      "headline": "Anthropic posts $80bn loss in first half of 2026: WSJ",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss",
       "keywords": [
+        "anthropic",
+        "posts",
+        "$80bn",
+        "loss",
+        "first",
+        "half"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792561398699-1",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 05:30:50 +0000",
+      "headline": "OpenAI says its agents turned off own safeguards",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss",
+      "keywords": [
+        "openai",
+        "says",
+        "agents",
+        "turned",
+        "safeguards"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792561398699-2",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 05:29:28 +0000",
+      "headline": "Which countries and players have won the most Ballon d’Or awards?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss",
+      "keywords": [
+        "which",
+        "countries",
+        "players",
+        "have",
+        "most",
+        "ballon"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792561398699-3",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 05:24:49 +0000",
+      "headline": "Far from fringe: How Israel’s mainstream parties vote with the far right",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss",
+      "keywords": [
+        "from",
+        "fringe:",
         "israel’s",
-        "elections",
-        "2026",
-        "explained",
-        "maps",
-        "charts"
+        "mainstream",
+        "parties",
+        "vote"
       ]
     },
     {
-      "id": "live-al jazeera-1792474803317-1",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 04:38:07 +0000",
-      "headline": "US Supreme Court to hear case on race in school admissions",
+      "id": "live-al jazeera-1792561398699-4",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 05:18:08 +0000",
+      "headline": "Pro-Modi leader burns cockroach effigy to taunt youth protesters",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/pro-modi-leader-burns-cockroach-effigy-to-taunt-youth-protesters?traffic_source=rss",
       "keywords": [
-        "supreme",
-        "court",
-        "hear",
-        "case",
-        "race",
-        "school"
+        "pro-modi",
+        "leader",
+        "burns",
+        "cockroach",
+        "effigy",
+        "taunt"
       ]
     },
     {
-      "id": "live-al jazeera-1792474803317-2",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 04:08:33 +0000",
-      "headline": "Japan launches historic mission to bring back Mars moon samples",
+      "id": "live-al jazeera-1792561398699-5",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 04:58:03 +0000",
+      "headline": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss",
       "keywords": [
-        "japan",
-        "launches",
-        "historic",
-        "mission",
-        "bring",
-        "back"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792474803317-3",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 03:55:27 +0000",
-      "headline": "Fourteen dead in illegal Colombian gold mine collapse",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
-      "keywords": [
-        "fourteen",
-        "dead",
-        "illegal",
-        "colombian",
-        "gold",
-        "mine"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792474803317-4",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 03:24:18 +0000",
-      "headline": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
-      "keywords": [
-        "‘deliberate’",
-        "ramming",
-        "australian",
-        "isolated",
-        "incident,",
-        "police"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792474803317-5",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 03:13:52 +0000",
-      "headline": "Angel Reese scores 30 as Dream stun Valkyries to go level in WNBA Finals",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss",
-      "keywords": [
-        "angel",
-        "reese",
-        "scores",
-        "dream",
-        "stun",
-        "valkyries"
-      ]
-    },
-    {
-      "id": "live-bbc-1792474803360-3",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 03:10:39 GMT",
-      "headline": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "canadian",
-        "tourist",
-        "found",
-        "guilty",
-        "animal",
-        "cruelty"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792474803317-6",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 02:52:50 +0000",
-      "headline": "PSG vs Barcelona: UEFA Champions League – Yamal, Torres, predictions, teams",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-vs-barcelona-uefa-champions-league-yamal-torres-predictions?traffic_source=rss",
-      "keywords": [
-        "barcelona:",
-        "uefa",
-        "champions",
-        "league",
-        "yamal,",
-        "torres,"
-      ]
-    },
-    {
-      "id": "live-bbc-1792474803360-2",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 02:45:05 GMT",
-      "headline": "Seventh day of violent clashes between Albanian protesters and police",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "seventh",
-        "violent",
-        "clashes",
-        "between",
-        "albanian",
-        "protesters"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792474803317-7",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 02:41:05 +0000",
-      "headline": "Man claims arm broken in violent ICE arrest",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/man-claims-arm-broken-in-violent-ice-arrest?traffic_source=rss",
-      "keywords": [
-        "claims",
-        "broken",
-        "violent",
-        "arrest"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792474803317-8",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 02:36:34 +0000",
-      "headline": "Four dead as torrential rain batters eastern Spain",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss",
-      "keywords": [
-        "four",
-        "dead",
-        "torrential",
-        "rain",
-        "batters",
-        "eastern"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792474803318-9",
-      "date": "20 Oct 2026",
-      "realPubDate": "Tue, 20 Oct 2026 01:52:32 +0000",
-      "headline": "The human cost of surging US air strikes in Somalia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
-      "keywords": [
-        "human",
-        "cost",
-        "surging",
-        "strikes",
-        "somalia"
-      ]
-    },
-    {
-      "id": "live-bbc-1792474803360-0",
-      "date": "19 Oct 2026",
-      "realPubDate": "Mon, 19 Oct 2026 21:14:53 GMT",
-      "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "curfew",
-        "imposed",
-        "parts",
-        "central",
-        "paris",
+        "lula,",
+        "bolsonaro",
+        "seek",
+        "disqualify",
+        "each",
         "other"
       ]
     },
     {
-      "id": "live-bbc-1792474803361-7",
-      "date": "19 Oct 2026",
-      "realPubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
-      "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1792561398699-6",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 04:13:00 +0000",
+      "headline": "Italy approves sweeping security measures in response to protests",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
       "keywords": [
-        "ex-openai",
-        "worker",
-        "accused",
-        "planting",
-        "device",
-        "saudi"
+        "italy",
+        "approves",
+        "sweeping",
+        "security",
+        "measures",
+        "response"
       ]
     },
     {
-      "id": "live-bbc-1792474803361-6",
-      "date": "19 Oct 2026",
-      "realPubDate": "Mon, 19 Oct 2026 21:02:33 GMT",
-      "headline": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "id": "live-bbc-1792561398882-0",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 03:59:18 GMT",
+      "headline": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "tennis",
-        "star",
-        "svitolina",
+        "envoy",
+        "meet",
+        "putin",
+        "russia",
+        "zelensky",
+        "says"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792561398699-7",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 03:51:39 +0000",
+      "headline": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
+      "keywords": [
+        "elon",
+        "musk",
         "says",
-        "emotional",
-        "toll"
+        "spacex",
+        "tesla",
+        "exploring"
       ]
     },
     {
-      "id": "live-bbc-1792474803360-1",
-      "date": "19 Oct 2026",
-      "realPubDate": "Mon, 19 Oct 2026 20:49:00 GMT",
-      "headline": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1792561398700-8",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 03:02:29 +0000",
+      "headline": "Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss",
       "keywords": [
-        "ukrainians",
-        "dying",
-        "because",
-        "restricting",
-        "intelligence",
-        "sharing,"
+        "faecal",
+        "waste",
+        "pollutes",
+        "drinking",
+        "water",
+        "mexico’s"
       ]
     },
     {
-      "id": "live-bbc-1792474803360-4",
-      "date": "19 Oct 2026",
-      "realPubDate": "Mon, 19 Oct 2026 19:45:46 GMT",
-      "headline": "Mission blasts off for Mars to grab a piece of its moon",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1792561398700-9",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 02:19:06 +0000",
+      "headline": "Portugal cost-of-living protesters pour back into camps cleared by police",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
       "keywords": [
-        "mission",
-        "blasts",
-        "mars",
-        "grab",
-        "piece",
-        "moon"
+        "portugal",
+        "cost-of-living",
+        "protesters",
+        "pour",
+        "back",
+        "into"
       ]
     },
     {
-      "id": "live-bbc-1792474803360-5",
-      "date": "19 Oct 2026",
-      "realPubDate": "Mon, 19 Oct 2026 17:18:04 GMT",
-      "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "id": "live-bbc-1792561398882-1",
+      "date": "21 Oct 2026",
+      "realPubDate": "Wed, 21 Oct 2026 01:22:51 GMT",
+      "headline": "France is divided over who to blame for weekend riots and what to learn from them",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "kenya",
-        "cult",
-        "leader",
-        "told",
-        "parents",
-        "starve"
+        "france",
+        "divided",
+        "over",
+        "blame",
+        "weekend",
+        "riots"
       ]
     },
     {
-      "id": "live-bbc-1792474803361-9",
-      "date": "19 Oct 2026",
-      "realPubDate": "Mon, 19 Oct 2026 16:20:51 GMT",
-      "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "id": "live-bbc-1792561398882-2",
+      "date": "20 Oct 2026",
+      "realPubDate": "Tue, 20 Oct 2026 23:24:47 GMT",
+      "headline": "Elon Musk says Tesla-SpaceX merger being considered",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "houthi",
-        "missile",
-        "strike",
-        "yemen",
-        "camp",
-        "kills"
+        "elon",
+        "musk",
+        "says",
+        "tesla-spacex",
+        "merger",
+        "being"
       ]
     },
     {
-      "id": "live-bbc-1792474803361-8",
-      "date": "19 Oct 2026",
-      "realPubDate": "Mon, 19 Oct 2026 13:42:41 GMT",
-      "headline": "Exiled critic of Rwandan president found beheaded",
+      "id": "live-bbc-1792561398882-4",
+      "date": "20 Oct 2026",
+      "realPubDate": "Tue, 20 Oct 2026 22:22:17 GMT",
+      "headline": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "exiled",
-        "critic",
-        "rwandan",
-        "president",
+        "alberta's",
+        "decisive",
+        "decision",
+        "stay",
+        "canada",
+        "gives"
+      ]
+    },
+    {
+      "id": "live-bbc-1792561398882-3",
+      "date": "20 Oct 2026",
+      "realPubDate": "Tue, 20 Oct 2026 20:00:57 GMT",
+      "headline": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "trump",
+        "zelensky",
+        "appear",
+        "loggerheads",
+        "despite",
+        "oslo"
+      ]
+    },
+    {
+      "id": "live-bbc-1792561398883-7",
+      "date": "20 Oct 2026",
+      "realPubDate": "Tue, 20 Oct 2026 19:30:05 GMT",
+      "headline": "Trump sued over Canadian tariffs in latest legal challenge",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "trump",
+        "sued",
+        "over",
+        "canadian",
+        "tariffs",
+        "latest"
+      ]
+    },
+    {
+      "id": "live-bbc-1792561398882-5",
+      "date": "20 Oct 2026",
+      "realPubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
+      "headline": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "sudan",
+        "army",
+        "drones",
+        "mourners",
+        "fuel",
+        "market"
+      ]
+    },
+    {
+      "id": "live-bbc-1792561398883-6",
+      "date": "20 Oct 2026",
+      "realPubDate": "Tue, 20 Oct 2026 15:58:57 GMT",
+      "headline": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "swimmer,",
+        "killed",
+        "shark",
+        "attack",
+        "south",
+        "africa's"
+      ]
+    },
+    {
+      "id": "live-bbc-1792561398883-8",
+      "date": "20 Oct 2026",
+      "realPubDate": "Tue, 20 Oct 2026 11:45:49 GMT",
+      "headline": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "north",
+        "korea",
+        "publishes",
+        "photos",
+        "jong",
+        "rumours"
+      ]
+    },
+    {
+      "id": "live-bbc-1792561398883-9",
+      "date": "20 Oct 2026",
+      "realPubDate": "Tue, 20 Oct 2026 03:10:39 GMT",
+      "headline": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "tourist",
         "found",
-        "beheaded"
+        "guilty",
+        "after",
+        "stealing",
+        "vegas"
       ]
     }
   ]
