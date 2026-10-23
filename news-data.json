@@ -1,322 +1,325 @@
 {
-  "lastUpdated": "2026-10-22T05:45:30.172Z",
-  "lastUpdatedDisplay": "22 Oct 2026, 05:45",
+  "lastUpdated": "2026-10-23T05:44:02.340Z",
+  "lastUpdatedDisplay": "23 Oct 2026, 05:44",
   "news": [
     {
-      "id": "live-bbc-1792647929940-1",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 05:37:53 GMT",
-      "headline": "Governments working to identify exposure after global cyber-security warning",
+      "id": "live-bbc-1792734241978-4",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 04:54:25 GMT",
+      "headline": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "governments",
-        "working",
-        "identify",
-        "exposure",
-        "after",
-        "global"
+        "nigeria",
+        "kenya",
+        "ebola",
+        "patients",
+        "have",
+        "crossed"
       ]
     },
     {
-      "id": "live-bbc-1792647929940-0",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 05:30:22 GMT",
-      "headline": "How Arab parties could hold critical balance of power in Israeli election",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "arab",
-        "parties",
-        "could",
-        "hold",
-        "critical",
-        "balance"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792647929813-0",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 05:00:56 +0000",
-      "headline": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+      "id": "live-al jazeera-1792734241716-0",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 04:41:24 +0000",
+      "headline": "Grenade exercise sparked deadly fire at Canada military base, army says",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss",
       "keywords": [
-        "el-sayed",
-        "face-off",
-        "against",
+        "grenade",
+        "exercise",
+        "sparked",
+        "deadly",
+        "fire",
+        "canada"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792734241716-1",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 04:27:55 +0000",
+      "headline": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+      "keywords": [
+        "keeping",
+        "madhubala",
+        "alive:",
+        "fight",
+        "karachi’s",
+        "captive"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792734241716-2",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 04:09:28 +0000",
+      "headline": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+      "keywords": [
+        "israel",
+        "arrests",
+        "palestinians",
+        "west",
+        "bank,",
+        "attacks"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792734241716-3",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 03:13:13 +0000",
+      "headline": "US tech stocks tumble as investors fret over AI spending",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
+      "keywords": [
+        "tech",
+        "stocks",
+        "tumble",
+        "investors",
+        "fret",
+        "over"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792734241716-4",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 03:12:12 +0000",
+      "headline": "Venezuelans demand elections in first national protest in nearly two years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss",
+      "keywords": [
+        "venezuelans",
+        "demand",
+        "elections",
+        "first",
+        "national",
+        "protest"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792734241716-5",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 02:44:35 +0000",
+      "headline": "Indian developer turns ‘Cockroach’ protests into video game",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
+      "keywords": [
+        "indian",
+        "developer",
+        "turns",
+        "‘cockroach’",
+        "protests",
+        "into"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792734241716-6",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 02:22:24 +0000",
+      "headline": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss",
+      "keywords": [
+        "trump",
+        "backs",
+        "ramaswamy",
+        "featuring",
         "rival",
-        "rogers",
-        "michigan"
+        "acton’s"
       ]
     },
     {
-      "id": "live-al jazeera-1792647929813-1",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 04:45:41 +0000",
-      "headline": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+      "id": "live-al jazeera-1792734241716-7",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 02:09:38 +0000",
+      "headline": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
       "keywords": [
-        "north",
-        "korea",
-        "resume",
-        "propaganda",
-        "broadcasts,",
-        "south"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792647929813-2",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 04:36:04 +0000",
-      "headline": "Brazil’s Bolsonaro challenges Lula to expand release of personal records",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss",
-      "keywords": [
-        "brazil’s",
-        "bolsonaro",
-        "challenges",
-        "lula",
-        "expand",
-        "release"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792647929813-3",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 04:19:33 +0000",
-      "headline": "Australian TV reporter rescues man from sinking car",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
-      "keywords": [
-        "australian",
-        "reporter",
-        "rescues",
-        "from",
-        "sinking"
-      ]
-    },
-    {
-      "id": "live-bbc-1792647929941-8",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 04:02:29 GMT",
-      "headline": "No order, no seat: Starbucks China rolls out new store policy",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "order,",
-        "seat:",
-        "starbucks",
-        "china",
-        "rolls",
-        "store"
-      ]
-    },
-    {
-      "id": "live-bbc-1792647929940-2",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 03:48:50 GMT",
-      "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "what",
-        "spark",
-        "global",
-        "cyber-security",
-        "scramble?"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792647929813-4",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 03:19:38 +0000",
-      "headline": "Trump administration seeks Supreme Court approval to build Big Bend wall",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
-      "keywords": [
-        "trump",
-        "administration",
-        "seeks",
-        "supreme",
-        "court",
-        "approval"
-      ]
-    },
-    {
-      "id": "live-bbc-1792647929941-9",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 03:05:28 GMT",
-      "headline": "US embassy accuses Canada of election meddling ahead of midterms",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "embassy",
-        "accuses",
-        "canada",
-        "election",
-        "meddling",
-        "ahead"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792647929814-5",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 02:34:46 +0000",
-      "headline": "Can Trump deport Congresswoman Ilhan Omar?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
-      "keywords": [
-        "trump",
-        "deport",
-        "congresswoman",
         "ilhan",
-        "omar?"
+        "omar",
+        "plans",
+        "move",
+        "washington",
+        "home"
       ]
     },
     {
-      "id": "live-al jazeera-1792647929814-6",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 02:16:25 +0000",
-      "headline": "Russia frees American Stephen Hubbard after 4 years behind bars",
+      "id": "live-al jazeera-1792734241716-8",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 01:47:39 +0000",
+      "headline": "Will ICE agents play a role in the 2026 US midterm elections?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss",
       "keywords": [
-        "russia",
-        "frees",
-        "american",
-        "stephen",
-        "hubbard",
+        "will",
+        "agents",
+        "play",
+        "role",
+        "2026",
+        "midterm"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1792734241716-9",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 01:46:40 +0000",
+      "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+      "keywords": [
+        "trump",
+        "says",
+        "musk",
+        "restored",
+        "ukraine’s",
+        "starlink"
+      ]
+    },
+    {
+      "id": "live-bbc-1792734241978-3",
+      "date": "23 Oct 2026",
+      "realPubDate": "Fri, 23 Oct 2026 01:38:44 GMT",
+      "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "trump",
+        "ordered",
+        "answer",
+        "questions",
+        "under",
+        "oath"
+      ]
+    },
+    {
+      "id": "live-bbc-1792734241978-0",
+      "date": "22 Oct 2026",
+      "realPubDate": "Thu, 22 Oct 2026 23:16:16 GMT",
+      "headline": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "hospitals",
+        "deliberately",
+        "targeted",
+        "sudan's",
+        "fighters,",
+        "investigation"
+      ]
+    },
+    {
+      "id": "live-bbc-1792734241978-2",
+      "date": "22 Oct 2026",
+      "realPubDate": "Thu, 22 Oct 2026 22:27:53 GMT",
+      "headline": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "l'oreal",
+        "says",
+        "weight",
+        "loss",
+        "drugs",
+        "impacting"
+      ]
+    },
+    {
+      "id": "live-bbc-1792734241978-1",
+      "date": "22 Oct 2026",
+      "realPubDate": "Thu, 22 Oct 2026 21:42:39 GMT",
+      "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "trump",
+        "says",
+        "musk",
+        "restored",
+        "access",
+        "ukraine's"
+      ]
+    },
+    {
+      "id": "live-bbc-1792734241978-6",
+      "date": "22 Oct 2026",
+      "realPubDate": "Thu, 22 Oct 2026 17:12:51 GMT",
+      "headline": "Race to update services' computer systems after cyber-security flaw found",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "race",
+        "update",
+        "services'",
+        "computer",
+        "systems",
         "after"
       ]
     },
     {
-      "id": "live-al jazeera-1792647929814-7",
+      "id": "live-bbc-1792734241978-8",
       "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 02:08:05 +0000",
-      "headline": "Tigray resumes daily life amid fears of wider war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
-      "keywords": [
-        "tigray",
-        "resumes",
-        "daily",
-        "life",
-        "amid",
-        "fears"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792647929814-8",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 02:02:55 +0000",
-      "headline": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
-      "keywords": [
-        "what",
-        "fdlr,",
-        "does",
-        "anti-tutsi",
-        "ideology",
-        "endure?"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792647929814-9",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 01:45:48 +0000",
-      "headline": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-      "keywords": [
-        "qatar,",
-        "france",
-        "call",
-        "opening",
-        "hormuz",
-        "gaza"
-      ]
-    },
-    {
-      "id": "live-bbc-1792647929941-5",
-      "date": "22 Oct 2026",
-      "realPubDate": "Thu, 22 Oct 2026 01:07:34 GMT",
-      "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "realPubDate": "Thu, 22 Oct 2026 17:07:03 GMT",
+      "headline": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "orders",
-        "some",
-        "diplomats",
-        "leave",
-        "saudi",
-        "arabia"
+        "germany",
+        "target",
+        "'intensive'",
+        "espionage,",
+        "merz",
+        "says"
       ]
     },
     {
-      "id": "live-bbc-1792647929941-6",
-      "date": "21 Oct 2026",
-      "realPubDate": "Wed, 21 Oct 2026 22:54:58 GMT",
-      "headline": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "id": "live-bbc-1792734241978-7",
+      "date": "22 Oct 2026",
+      "realPubDate": "Thu, 22 Oct 2026 16:15:25 GMT",
+      "headline": "Crowd of 50 beats foreigner to death in South Africa",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "airbnb",
-        "hosts",
-        "longer",
-        "make",
-        "guests",
-        "strip"
+        "crowd",
+        "beats",
+        "foreigner",
+        "death",
+        "south",
+        "africa"
       ]
     },
     {
-      "id": "live-bbc-1792647929941-3",
-      "date": "21 Oct 2026",
-      "realPubDate": "Wed, 21 Oct 2026 21:27:41 GMT",
-      "headline": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "id": "live-bbc-1792734241978-5",
+      "date": "22 Oct 2026",
+      "realPubDate": "Thu, 22 Oct 2026 15:56:36 GMT",
+      "headline": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "missiles",
-        "kyiv",
+        "newborn",
+        "twins",
+        "fight",
+        "survival",
+        "conflict",
+        "fuels"
+      ]
+    },
+    {
+      "id": "live-bbc-1792734241978-9",
+      "date": "22 Oct 2026",
+      "realPubDate": "Thu, 22 Oct 2026 11:23:16 GMT",
+      "headline": "At least four dead after storm brings flooding to southern France",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "least",
+        "four",
+        "dead",
         "after",
-        "russia",
-        "agrees",
-        "call"
-      ]
-    },
-    {
-      "id": "live-bbc-1792647929941-4",
-      "date": "21 Oct 2026",
-      "realPubDate": "Wed, 21 Oct 2026 19:58:06 GMT",
-      "headline": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "rosenberg:",
-        "diplomatic",
-        "push",
-        "offers",
-        "little",
-        "hope"
-      ]
-    },
-    {
-      "id": "live-bbc-1792647929941-7",
-      "date": "21 Oct 2026",
-      "realPubDate": "Wed, 21 Oct 2026 14:04:28 GMT",
-      "headline": "Macron accuses foreign leaders of exploiting French riots",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "macron",
-        "accuses",
-        "foreign",
-        "leaders",
-        "exploiting",
-        "french"
+        "storm",
+        "brings"
       ]
     }
   ]
