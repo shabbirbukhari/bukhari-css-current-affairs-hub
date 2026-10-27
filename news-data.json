@@ -1,201 +1,313 @@
 {
-  "lastUpdated": "2026-10-26T05:46:16.533Z",
-  "lastUpdatedDisplay": "26 Oct 2026, 05:46",
+  "lastUpdated": "2026-10-27T05:58:44.902Z",
+  "lastUpdatedDisplay": "27 Oct 2026, 05:58",
   "news": [
     {
-      "id": "live-al jazeera-1792993576067-0",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 05:24:59 +0000",
-      "headline": "Aleksandar Vucic, the Serbian leader brought down by students",
+      "id": "live-al jazeera-1793080724534-0",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 05:29:24 +0000",
+      "headline": "Tracking the money: The biggest donors in the 2026 US midterm elections",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections?traffic_source=rss",
       "keywords": [
-        "aleksandar",
-        "vucic,",
-        "serbian",
-        "leader",
-        "brought",
-        "down"
+        "tracking",
+        "money:",
+        "biggest",
+        "donors",
+        "2026",
+        "midterm"
       ]
     },
     {
-      "id": "live-bbc-1792993576263-1",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 05:20:19 GMT",
-      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1793080724534-1",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 05:22:22 +0000",
+      "headline": "Why has France struggled to address students’ demands?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
       "keywords": [
-        "venezuelan",
+        "france",
+        "struggled",
+        "address",
+        "students’",
+        "demands?"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793080724534-2",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 05:14:13 +0000",
+      "headline": "Macklemore opens ‘Free Palestine’ tour in Dublin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
+      "keywords": [
+        "macklemore",
+        "opens",
+        "‘free",
+        "palestine’",
+        "tour",
+        "dublin"
+      ]
+    },
+    {
+      "id": "live-bbc-1793080724643-4",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 05:05:15 GMT",
+      "headline": "Jay-Z to perform at Super Bowl half-time show",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "jay-z",
+        "perform",
+        "super",
+        "bowl",
+        "half-time",
+        "show"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793080724534-3",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 05:01:13 +0000",
+      "headline": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
+      "keywords": [
+        "makes",
+        "discoveries",
+        "mathematics,",
+        "computer",
+        "science,",
+        "physics,"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793080724534-4",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 04:54:26 +0000",
+      "headline": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
+      "keywords": [
+        "iran,",
+        "saudi,",
+        "turkiye",
+        "pakistan",
+        "agree",
+        "more"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793080724534-5",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 04:45:16 +0000",
+      "headline": "People missing after massive drilling platform sinks off Gabon",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss",
+      "keywords": [
+        "people",
+        "missing",
+        "after",
+        "massive",
+        "drilling",
+        "platform"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793080724534-6",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 04:44:14 +0000",
+      "headline": "Israel heads to the polls as shift to the right dominates critical election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+      "keywords": [
+        "israel",
+        "heads",
+        "polls",
+        "shift",
+        "right",
+        "dominates"
+      ]
+    },
+    {
+      "id": "live-bbc-1793080724643-3",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 04:43:56 GMT",
+      "headline": "Meghan to co-host Junior MasterChef Australia",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "meghan",
+        "co-host",
+        "junior",
+        "masterchef",
+        "australia"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793080724534-7",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 04:30:00 +0000",
+      "headline": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+      "keywords": [
+        "israel",
+        "election",
+        "2026",
+        "live:",
+        "netanyahu",
+        "faces"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793080724534-8",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 03:48:41 +0000",
+      "headline": "Man with fake gun shot after using abused partner as shield",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss",
+      "keywords": [
+        "with",
+        "fake",
+        "shot",
+        "after",
+        "using",
+        "abused"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793080724534-9",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 03:17:40 +0000",
+      "headline": "Ex-FBI chief Comey defiant in the face of third prosecution",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
+      "keywords": [
+        "ex-fbi",
+        "chief",
+        "comey",
+        "defiant",
+        "face",
+        "third"
+      ]
+    },
+    {
+      "id": "live-bbc-1793080724643-2",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 02:40:17 GMT",
+      "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "jordan",
+        "carries",
+        "deadly",
+        "strike",
+        "syria",
+        "retaliation"
+      ]
+    },
+    {
+      "id": "live-bbc-1793080724643-1",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 02:01:27 GMT",
+      "headline": "Ex-FBI chief James Comey faces federal charges for third time",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "ex-fbi",
+        "chief",
+        "james",
+        "comey",
+        "faces",
+        "federal"
+      ]
+    },
+    {
+      "id": "live-bbc-1793080724643-5",
+      "date": "27 Oct 2026",
+      "realPubDate": "Tue, 27 Oct 2026 00:31:11 GMT",
+      "headline": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
         "opposition",
         "leader",
         "maría",
         "machado",
-        "returns"
+        "returns",
+        "from"
       ]
     },
     {
-      "id": "live-al jazeera-1792993576068-1",
+      "id": "live-bbc-1793080724643-0",
       "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 05:18:00 +0000",
-      "headline": "The Gambia’s first blind magistrate tests a system built for the sighted",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-      "keywords": [
-        "gambia’s",
-        "first",
-        "blind",
-        "magistrate",
-        "tests",
-        "system"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792993576068-2",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 05:16:38 +0000",
-      "headline": "Israel’s election: Five key things to know",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-      "keywords": [
-        "israel’s",
-        "election:",
-        "five",
-        "things",
-        "know"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792993576068-3",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 05:01:59 +0000",
-      "headline": "Social video captures moment Brazil’s election turned",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
-      "keywords": [
-        "social",
-        "video",
-        "captures",
-        "moment",
-        "brazil’s",
-        "election"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792993576068-4",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 04:36:46 +0000",
-      "headline": "Bolsonaro calls for Brazil election result to be annulled",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
-      "keywords": [
-        "bolsonaro",
-        "calls",
-        "brazil",
-        "election",
-        "result",
-        "annulled"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792993576068-5",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 04:32:48 +0000",
-      "headline": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
-      "keywords": [
-        "appeals",
-        "court",
-        "sceptical",
-        "trump’s",
-        "lawsuit",
-        "over"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792993576068-6",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 04:21:26 +0000",
-      "headline": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
-      "keywords": [
-        "attackers",
-        "kill",
-        "nurse,",
-        "injure",
-        "health",
-        "worker"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1792993576068-7",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 04:05:44 +0000",
-      "headline": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-      "keywords": [
-        "military",
-        "says",
-        "helped",
-        "gulf",
-        "states",
-        "export"
-      ]
-    },
-    {
-      "id": "live-bbc-1792993576264-3",
-      "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 04:05:28 GMT",
-      "headline": "Australian murderer loses bid to eat Vegemite in prison",
+      "realPubDate": "Mon, 26 Oct 2026 21:02:47 GMT",
+      "headline": "Lula wins fourth term in dramatic Brazil election comeback",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "australian",
-        "murderer",
-        "loses",
-        "vegemite",
-        "prison"
+        "lula",
+        "wins",
+        "fourth",
+        "term",
+        "dramatic",
+        "brazil"
       ]
     },
     {
-      "id": "live-al jazeera-1792993576068-8",
+      "id": "live-bbc-1793080724643-7",
       "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 04:03:28 +0000",
-      "headline": "Trump dials up Islamophobia against Abdul El-Sayed at Michigan Senate rally",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+      "realPubDate": "Mon, 26 Oct 2026 19:27:21 GMT",
+      "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
         "trump",
-        "dials",
-        "islamophobia",
-        "against",
-        "abdul",
-        "el-sayed"
+        "administration",
+        "illegally",
+        "fired",
+        "james",
+        "comey's"
       ]
     },
     {
-      "id": "live-al jazeera-1792993576068-9",
+      "id": "live-bbc-1793080724643-8",
       "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 03:50:12 +0000",
-      "headline": "World reacts to Lula’s victory in Brazil’s presidential election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+      "realPubDate": "Mon, 26 Oct 2026 16:27:17 GMT",
+      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "world",
-        "reacts",
-        "lula’s",
-        "victory",
-        "brazil’s",
-        "presidential"
+        "anthropic",
+        "warns",
+        "'catastrophic",
+        "risk'",
+        "humankind",
+        "ahead"
       ]
     },
     {
-      "id": "live-bbc-1792993576263-0",
+      "id": "live-bbc-1793080724643-9",
       "date": "26 Oct 2026",
-      "realPubDate": "Mon, 26 Oct 2026 01:07:05 GMT",
+      "realPubDate": "Mon, 26 Oct 2026 15:46:31 GMT",
+      "headline": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "catholic",
+        "bishops",
+        "apologise",
+        "'exploited'",
+        "trump",
+        "meeting"
+      ]
+    },
+    {
+      "id": "live-bbc-1793080724643-6",
+      "date": "26 Oct 2026",
+      "realPubDate": "Mon, 26 Oct 2026 14:34:52 GMT",
       "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss",
@@ -206,118 +318,6 @@
         "veteran",
         "ruler",
         "vučić"
-      ]
-    },
-    {
-      "id": "live-bbc-1792993576264-6",
-      "date": "25 Oct 2026",
-      "realPubDate": "Sun, 25 Oct 2026 23:33:19 GMT",
-      "headline": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "rapper",
-        "nicki",
-        "minaj",
-        "joins",
-        "trump",
-        "onstage"
-      ]
-    },
-    {
-      "id": "live-bbc-1792993576264-2",
-      "date": "25 Oct 2026",
-      "realPubDate": "Sun, 25 Oct 2026 22:11:13 GMT",
-      "headline": "Deeply divided Israel braces for pivotal election",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "deeply",
-        "divided",
-        "israel",
-        "braces",
-        "pivotal",
-        "election"
-      ]
-    },
-    {
-      "id": "live-bbc-1792993576264-4",
-      "date": "25 Oct 2026",
-      "realPubDate": "Sun, 25 Oct 2026 15:32:51 GMT",
-      "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "suspect",
-        "deadly",
-        "paris",
-        "suburb",
-        "shooting",
-        "sent"
-      ]
-    },
-    {
-      "id": "live-bbc-1792993576264-9",
-      "date": "25 Oct 2026",
-      "realPubDate": "Sun, 25 Oct 2026 14:39:47 GMT",
-      "headline": "Gabon says access to social media restored after eight-month ban",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "gabon",
-        "says",
-        "access",
-        "social",
-        "media",
-        "restored"
-      ]
-    },
-    {
-      "id": "live-bbc-1792993576264-5",
-      "date": "25 Oct 2026",
-      "realPubDate": "Sun, 25 Oct 2026 14:34:33 GMT",
-      "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "russia",
-        "host",
-        "first",
-        "olympic",
-        "federation",
-        "world"
-      ]
-    },
-    {
-      "id": "live-bbc-1792993576264-7",
-      "date": "25 Oct 2026",
-      "realPubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "musk",
-        "says",
-        "spacex",
-        "restricted",
-        "ukraine's",
-        "starlink"
-      ]
-    },
-    {
-      "id": "live-bbc-1792993576264-8",
-      "date": "25 Oct 2026",
-      "realPubDate": "Sun, 25 Oct 2026 05:15:52 GMT",
-      "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "israel",
-        "close",
-        "west",
-        "bank",
-        "crossings",
-        "election"
       ]
     }
   ]
