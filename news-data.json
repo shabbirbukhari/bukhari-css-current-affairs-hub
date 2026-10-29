@@ -1,324 +1,325 @@
 {
-  "lastUpdated": "2026-10-28T06:37:46.870Z",
-  "lastUpdatedDisplay": "28 Oct 2026, 06:37",
+  "lastUpdated": "2026-10-29T06:45:10.651Z",
+  "lastUpdatedDisplay": "29 Oct 2026, 06:45",
   "news": [
     {
-      "id": "live-al jazeera-1793169466485-0",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 06:07:19 +0000",
-      "headline": "Arsenal knocked out of League Cup by fourth-tier Fleetwood Town",
+      "id": "live-al jazeera-1793256310203-0",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 06:13:51 +0000",
+      "headline": "Chelsea beat Liverpool 6-5 on penalties to reach League Cup quarterfinals",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss",
       "keywords": [
-        "arsenal",
-        "knocked",
-        "league",
-        "fourth-tier",
-        "fleetwood",
-        "town"
+        "chelsea",
+        "beat",
+        "liverpool",
+        "penalties",
+        "reach",
+        "league"
       ]
     },
     {
-      "id": "live-al jazeera-1793169466486-1",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 06:05:27 +0000",
-      "headline": "‘Working our fingers to the bone’: Can the UK save its struggling high streets?",
+      "id": "live-al jazeera-1793256310204-1",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 06:01:29 +0000",
+      "headline": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/working-our-fingers-to-the-bone-can-the-uk-save-its-struggling-high-streets?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss",
       "keywords": [
-        "‘working",
-        "fingers",
-        "bone’:",
-        "save",
-        "struggling",
-        "high"
+        "russia’s",
+        "alleged",
+        "sabotage",
+        "campaign",
+        "europe",
+        "raises"
       ]
     },
     {
-      "id": "live-al jazeera-1793169466486-2",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 06:02:00 +0000",
-      "headline": "Netanyahu outlines achievements, future plans as Likud leads Israeli polls",
+      "id": "live-al jazeera-1793256310204-2",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 05:36:08 +0000",
+      "headline": "Why a Democratic win in US midterms could adversely affect Europe",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/netanyahu-outlines-achievements-future-plans-as-likud-leads-polls?traffic_source=rss",
+      "url": "https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe?traffic_source=rss",
       "keywords": [
-        "netanyahu",
-        "outlines",
-        "achievements,",
-        "future",
-        "plans",
-        "likud"
+        "democratic",
+        "midterms",
+        "could",
+        "adversely",
+        "affect",
+        "europe"
       ]
     },
     {
-      "id": "live-al jazeera-1793169466486-3",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 05:43:40 +0000",
-      "headline": "Why India has soured on Trump ahead of US midterms",
+      "id": "live-al jazeera-1793256310204-3",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 05:29:20 +0000",
+      "headline": "Can Turkiye’s Libya breakthrough reshape Eastern Mediterranean diplomacy?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss",
       "keywords": [
-        "india",
-        "soured",
+        "turkiye’s",
+        "libya",
+        "breakthrough",
+        "reshape",
+        "eastern",
+        "mediterranean"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793256310204-4",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 05:22:21 +0000",
+      "headline": "Russia says more than 600 drones launched towards Moscow overnight",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss",
+      "keywords": [
+        "russia",
+        "says",
+        "more",
+        "than",
+        "drones",
+        "launched"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793256310204-5",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 05:06:23 +0000",
+      "headline": "Judge rejects Trump effort to block California ‘noncitizen’ ballots",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss",
+      "keywords": [
+        "judge",
+        "rejects",
         "trump",
-        "ahead",
-        "midterms"
+        "effort",
+        "block",
+        "california"
       ]
     },
     {
-      "id": "live-al jazeera-1793169466486-4",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 04:28:22 +0000",
-      "headline": "Mbappe faces backlash in China for meme fiasco",
+      "id": "live-al jazeera-1793256310204-6",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 04:30:04 +0000",
+      "headline": "Obama mocks Trump team’s Cheesecake Factory response",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/obama-mocks-trump-teams-cheesecake-factory-response?traffic_source=rss",
       "keywords": [
-        "mbappe",
-        "faces",
-        "backlash",
-        "china",
-        "meme",
-        "fiasco"
+        "obama",
+        "mocks",
+        "trump",
+        "team’s",
+        "cheesecake",
+        "factory"
       ]
     },
     {
-      "id": "live-al jazeera-1793169466486-5",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 04:13:28 +0000",
-      "headline": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+      "id": "live-al jazeera-1793256310204-7",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 03:39:02 +0000",
+      "headline": "Incredible celebrations as last patient leaves a DRC Ebola centre",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/incredible-celebrations-as-last-patient-leaves-a-drc-ebola-centre?traffic_source=rss",
       "keywords": [
-        "mahmoud",
-        "khalil",
-        "credits",
-        "palestinian",
-        "activism",
-        "reshaping"
+        "incredible",
+        "celebrations",
+        "last",
+        "patient",
+        "leaves",
+        "ebola"
       ]
     },
     {
-      "id": "live-al jazeera-1793169466486-6",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 03:49:40 +0000",
-      "headline": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+      "id": "live-al jazeera-1793256310204-8",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 03:12:47 +0000",
+      "headline": "Activists accuse Israeli settlers of assault in occupied West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
       "keywords": [
+        "activists",
+        "accuse",
+        "israeli",
+        "settlers",
+        "assault",
+        "occupied"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793256310204-9",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 03:00:57 +0000",
+      "headline": "US man gets 30-year sentence for Minnesota fraud that drew Trump backlash",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss",
+      "keywords": [
+        "gets",
+        "30-year",
+        "sentence",
+        "minnesota",
+        "fraud",
+        "that"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-2",
+      "date": "29 Oct 2026",
+      "realPubDate": "Thu, 29 Oct 2026 01:14:01 GMT",
+      "headline": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "flávio",
         "bolsonaro",
-        "ally",
         "denies",
-        "knowledge",
-        "senator’s",
-        "plan"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793169466487-7",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 03:14:31 +0000",
-      "headline": "Global stock markets rise as investors continue to bet on AI",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
-      "keywords": [
-        "global",
-        "stock",
-        "markets",
-        "rise",
-        "investors",
-        "continue"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793169466487-8",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 03:10:17 +0000",
-      "headline": "Syria-Jordan border reopens amid probe into deadly air strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
-      "keywords": [
-        "syria-jordan",
-        "border",
-        "reopens",
-        "amid",
-        "probe",
-        "into"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793169466487-9",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 02:53:35 +0000",
-      "headline": "Five key takeaways from Israel’s parliamentary elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
-      "keywords": [
-        "five",
-        "takeaways",
-        "from",
-        "israel’s",
-        "parliamentary",
-        "elections"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466635-6",
-      "date": "28 Oct 2026",
-      "realPubDate": "Wed, 28 Oct 2026 02:20:25 GMT",
-      "headline": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "alexander",
-        "brothers",
-        "each",
-        "sentenced",
-        "years",
-        "prison"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466634-1",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 22:11:08 GMT",
-      "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "ceasefire",
-        "extended",
-        "across",
-        "ukraine's",
-        "kherson",
-        "region,"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466635-5",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 21:09:12 GMT",
-      "headline": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "ex-wife",
-        "zimbabwe's",
-        "vice-president",
-        "freed",
-        "after",
-        "collapse"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466635-7",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 20:44:40 GMT",
-      "headline": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "egypt",
-        "court",
-        "fines",
-        "journalist",
-        "lina",
-        "attalah"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466635-4",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 19:30:37 GMT",
-      "headline": "Dutch zookeeper dies after being mauled by leopard",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "dutch",
-        "zookeeper",
-        "dies",
-        "after",
-        "being",
-        "mauled"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466635-8",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 18:43:41 GMT",
-      "headline": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "ghanaian",
-        "twin",
-        "brothers",
-        "woman",
-        "plead",
-        "guilty"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466634-0",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 18:28:23 GMT",
-      "headline": "Norway and Finland leaders hold rare call with Putin",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "norway",
-        "finland",
-        "leaders",
-        "hold",
-        "rare",
-        "call"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466635-9",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 14:29:39 GMT",
-      "headline": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "ballon",
-        "d'or",
-        "ceremony",
-        "raises",
-        "case",
-        "french"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466634-2",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 13:25:54 GMT",
-      "headline": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "mbappé",
-        "sorry",
-        "'ill-judged'",
-        "remark",
-        "after",
-        "backlash"
-      ]
-    },
-    {
-      "id": "live-bbc-1793169466634-3",
-      "date": "27 Oct 2026",
-      "realPubDate": "Tue, 27 Oct 2026 01:46:38 GMT",
-      "headline": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "lula's",
-        "comeback",
+        "fleeing",
         "brazil",
-        "dents",
-        "trump's",
-        "ambitions"
+        "after"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-5",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 22:08:52 GMT",
+      "headline": "Girl seriously injured in wolf attack at German wildlife park",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "girl",
+        "seriously",
+        "injured",
+        "wolf",
+        "attack",
+        "german"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-0",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 21:38:54 GMT",
+      "headline": "High-speed train crash kills at least 68 people in Spain",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "high-speed",
+        "train",
+        "crash",
+        "kills",
+        "least",
+        "people"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-1",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 21:24:41 GMT",
+      "headline": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "bloodied,",
+        "dazed",
+        "angry",
+        "passengers'",
+        "rail",
+        "journey"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-7",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 21:16:30 GMT",
+      "headline": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "death",
+        "actress",
+        "hayden",
+        "panettiere",
+        "ruled",
+        "accidental,"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-3",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 20:24:39 GMT",
+      "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "netanyahu's",
+        "bloc",
+        "leading",
+        "israel",
+        "election",
+        "short"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-4",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 14:30:31 GMT",
+      "headline": "How could Israel break election deadlock? Here are four scenarios",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "could",
+        "israel",
+        "break",
+        "election",
+        "deadlock?",
+        "here"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-6",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 10:31:22 GMT",
+      "headline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "luxury",
+        "cruise",
+        "passengers",
+        "stranded",
+        "cambodia",
+        "soaring"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310395-9",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 10:18:40 GMT",
+      "headline": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "tanzania",
+        "celebrates",
+        "first",
+        "natural",
+        "discovery",
+        "more"
+      ]
+    },
+    {
+      "id": "live-bbc-1793256310394-8",
+      "date": "28 Oct 2026",
+      "realPubDate": "Wed, 28 Oct 2026 10:17:54 GMT",
+      "headline": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "serbian",
+        "shot",
+        "dead",
+        "after",
+        "attacking",
+        "officer"
       ]
     }
   ]
