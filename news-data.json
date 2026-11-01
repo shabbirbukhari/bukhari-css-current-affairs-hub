@@ -1,72 +1,313 @@
 {
-  "lastUpdated": "2026-10-31T06:37:23.927Z",
-  "lastUpdatedDisplay": "31 Oct 2026, 06:37",
+  "lastUpdated": "2026-11-01T07:07:59.938Z",
+  "lastUpdatedDisplay": "01 Nov 2026, 07:07",
   "news": [
     {
-      "id": "live-al jazeera-1793428643311-0",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 06:11:53 +0000",
-      "headline": "LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss",
+      "id": "live-bbc-1793516879703-0",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 07:05:50 GMT",
+      "headline": "Shops looted as German cost of living protests turn violent",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "lebron",
-        "james,",
-        "tyrese",
-        "maxey",
-        "shine",
-        "76ers"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793428643311-1",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 06:08:19 +0000",
-      "headline": "The selective solidarity at the heart of India’s voter protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss",
-      "keywords": [
-        "selective",
-        "solidarity",
-        "heart",
-        "india’s",
-        "voter",
+        "shops",
+        "looted",
+        "german",
+        "cost",
+        "living",
         "protests"
       ]
     },
     {
-      "id": "live-al jazeera-1793428643311-2",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 06:03:54 +0000",
-      "headline": "What has it cost to keep Al Jazeera on air for 30 years?",
+      "id": "live-bbc-1793516879704-4",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 07:00:55 GMT",
+      "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "india's",
+        "opposition",
+        "hold",
+        "mega",
+        "rally",
+        "seeking"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879580-0",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 06:34:20 +0000",
+      "headline": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss",
+      "keywords": [
+        "rubio",
+        "says",
+        "trump",
+        "administration",
+        "help",
+        "bolsonaro"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879580-1",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 06:19:52 +0000",
+      "headline": "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss",
+      "keywords": [
+        "canelo",
+        "alvarez",
+        "defeats",
+        "christian",
+        "mbilli",
+        "reclaim"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879580-2",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 06:17:45 +0000",
+      "headline": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
+      "keywords": [
+        "golden",
+        "state",
+        "valkyries",
+        "defeat",
+        "atlanta",
+        "dream"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879580-3",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 05:25:32 +0000",
+      "headline": "‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss",
+      "keywords": [
+        "‘like",
+        "kashmir’:",
+        "toxic",
+        "marble",
+        "dump",
+        "yard"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879580-4",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 05:21:16 +0000",
+      "headline": "Roger’s cynical gift basket for El-Sayed on his birthday",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss",
+      "keywords": [
+        "roger’s",
+        "cynical",
+        "gift",
+        "basket",
+        "el-sayed",
+        "birthday"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879580-5",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 04:49:15 +0000",
+      "headline": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+      "keywords": [
+        "demands",
+        "investigation",
+        "after",
+        "staffer’s",
+        "death",
+        "houthi"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879580-6",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 04:31:24 +0000",
+      "headline": "France protests enter third week as police fire tear gas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+      "keywords": [
+        "france",
+        "protests",
+        "enter",
+        "third",
+        "week",
+        "police"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879581-7",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 04:04:40 +0000",
+      "headline": "Bolivia declares state of emergency over El Nino weather pattern",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss",
+      "keywords": [
+        "bolivia",
+        "declares",
+        "state",
+        "emergency",
+        "over",
+        "nino"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879581-8",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 03:37:23 +0000",
+      "headline": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
+      "keywords": [
+        "ukrainian",
+        "evacuees",
+        "from",
+        "russian-occupied",
+        "oleshky",
+        "reunite"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793516879581-9",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 03:24:02 +0000",
+      "headline": "What we know about latest efforts to end US war on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
       "keywords": [
         "what",
-        "cost",
-        "keep",
-        "jazeera",
-        "years?"
+        "know",
+        "about",
+        "latest",
+        "efforts",
+        "iran"
       ]
     },
     {
-      "id": "live-al jazeera-1793428643311-3",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 05:48:25 +0000",
-      "headline": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+      "id": "live-bbc-1793516879704-5",
+      "date": "01 Nov 2026",
+      "realPubDate": "Sun, 01 Nov 2026 00:55:06 GMT",
+      "headline": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "after",
-        "‘martyr’s’",
-        "funeral:",
-        "families",
-        "left",
-        "behind"
+        "downfall",
+        "serbia's",
+        "vučiċ",
+        "mirrored",
+        "that",
+        "hungary's"
       ]
     },
     {
-      "id": "live-bbc-1793428643459-4",
+      "id": "live-bbc-1793516879703-3",
+      "date": "31 Oct 2026",
+      "realPubDate": "Sat, 31 Oct 2026 22:11:45 GMT",
+      "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "crypto",
+        "firm",
+        "binance",
+        "covers",
+        "losses",
+        "after"
+      ]
+    },
+    {
+      "id": "live-bbc-1793516879704-7",
+      "date": "31 Oct 2026",
+      "realPubDate": "Sat, 31 Oct 2026 21:29:01 GMT",
+      "headline": "Thousands demonstrate in Paris as protests spread across Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "thousands",
+        "demonstrate",
+        "paris",
+        "protests",
+        "spread",
+        "across"
+      ]
+    },
+    {
+      "id": "live-bbc-1793516879703-1",
+      "date": "31 Oct 2026",
+      "realPubDate": "Sat, 31 Oct 2026 19:22:26 GMT",
+      "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "came",
+        "back",
+        "from",
+        "hell',",
+        "ukrainians",
+        "after"
+      ]
+    },
+    {
+      "id": "live-bbc-1793516879703-2",
+      "date": "31 Oct 2026",
+      "realPubDate": "Sat, 31 Oct 2026 17:53:35 GMT",
+      "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "ukrainian",
+        "evacuees",
+        "reunite",
+        "with",
+        "family",
+        "after"
+      ]
+    },
+    {
+      "id": "live-bbc-1793516879704-8",
+      "date": "31 Oct 2026",
+      "realPubDate": "Sat, 31 Oct 2026 15:16:20 GMT",
+      "headline": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "more",
+        "than",
+        "5,000",
+        "from",
+        "ebola",
+        "congo's"
+      ]
+    },
+    {
+      "id": "live-bbc-1793516879704-6",
+      "date": "31 Oct 2026",
+      "realPubDate": "Sat, 31 Oct 2026 14:28:15 GMT",
+      "headline": "Ethiopian PM puts ministers through military training",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "ethiopian",
+        "puts",
+        "ministers",
+        "through",
+        "military",
+        "training"
+      ]
+    },
+    {
+      "id": "live-bbc-1793516879704-9",
       "date": "31 Oct 2026",
       "realPubDate": "Sat, 31 Oct 2026 05:44:21 GMT",
       "headline": "Spain train disaster clouds Sánchez chances of re-election",
@@ -79,243 +320,6 @@
         "clouds",
         "sánchez",
         "chances"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793428643311-4",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 05:37:51 +0000",
-      "headline": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss",
-      "keywords": [
-        "russia",
-        "china",
-        "racing",
-        "nuclear",
-        "reactors",
-        "moon?"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793428643311-5",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 05:07:34 +0000",
-      "headline": "Mohammed Deif, rare footage and October 7 documents",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
-      "keywords": [
-        "mohammed",
-        "deif,",
-        "rare",
-        "footage",
-        "october",
-        "documents"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793428643312-6",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 05:07:25 +0000",
-      "headline": "Trump tells voters to send El-Sayed ‘back to where he came from’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
-      "keywords": [
-        "trump",
-        "tells",
-        "voters",
-        "send",
-        "el-sayed",
-        "‘back"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793428643312-7",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 04:51:25 +0000",
-      "headline": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
-      "keywords": [
-        "greenlights",
-        "$2.1bn",
-        "patriot",
-        "missile",
-        "sale",
-        "ukraine"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793428643312-8",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 04:41:32 +0000",
-      "headline": "US jails two Chinese nationals for spying",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
-      "keywords": [
-        "jails",
-        "chinese",
-        "nationals",
-        "spying"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793428643312-9",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 03:55:48 +0000",
-      "headline": "Iran says four tankers on fire after striking mines in Hormuz",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
-      "keywords": [
-        "iran",
-        "says",
-        "four",
-        "tankers",
-        "fire",
-        "after"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-8",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 02:39:25 GMT",
-      "headline": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "trump's",
-        "tariffs",
-        "could",
-        "shutter",
-        "this",
-        "canadian"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-2",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 02:12:19 GMT",
-      "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "north",
-        "korea's",
-        "'elite'",
-        "hackers",
-        "prime",
-        "suspect"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-6",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 01:27:05 GMT",
-      "headline": "Global nature talks reach deal but money remains an issue",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "global",
-        "nature",
-        "talks",
-        "reach",
-        "deal",
-        "money"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-3",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 01:11:43 GMT",
-      "headline": "Police deployed during stand-off over control of top Poland court",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "police",
-        "deployed",
-        "during",
-        "stand-off",
-        "over",
-        "control"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-0",
-      "date": "31 Oct 2026",
-      "realPubDate": "Sat, 31 Oct 2026 00:40:43 GMT",
-      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "approves",
-        "sale",
-        "patriot",
-        "missiles",
-        "ukraine"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-1",
-      "date": "30 Oct 2026",
-      "realPubDate": "Fri, 30 Oct 2026 21:13:14 GMT",
-      "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "crypto",
-        "giant",
-        "binance",
-        "attempting",
-        "recover",
-        "$6.3bn"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-7",
-      "date": "30 Oct 2026",
-      "realPubDate": "Fri, 30 Oct 2026 20:41:51 GMT",
-      "headline": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "they",
-        "strangled",
-        "says",
-        "founder",
-        "russian",
-        "newspaper"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-9",
-      "date": "30 Oct 2026",
-      "realPubDate": "Fri, 30 Oct 2026 17:07:19 GMT",
-      "headline": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "inmate",
-        "christa",
-        "pike",
-        "says",
-        "woke",
-        "'confused"
-      ]
-    },
-    {
-      "id": "live-bbc-1793428643459-5",
-      "date": "30 Oct 2026",
-      "realPubDate": "Fri, 30 Oct 2026 16:26:11 GMT",
-      "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "hundreds",
-        "evacuated",
-        "from",
-        "russian-occupied",
-        "oleshky",
-        "during"
       ]
     }
   ]
