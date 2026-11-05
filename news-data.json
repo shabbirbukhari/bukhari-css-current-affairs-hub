@@ -1,323 +1,325 @@
 {
-  "lastUpdated": "2026-11-04T07:14:49.112Z",
-  "lastUpdatedDisplay": "04 Nov 2026, 07:14",
+  "lastUpdated": "2026-11-05T07:42:29.315Z",
+  "lastUpdatedDisplay": "05 Nov 2026, 07:42",
   "news": [
     {
-      "id": "live-bbc-1793776488875-2",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 07:12:21 GMT",
-      "headline": "Florida Republicans fend off Democrats as state elects first black governor",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "florida",
-        "republicans",
-        "fend",
-        "democrats",
-        "state",
-        "elects"
-      ]
-    },
-    {
-      "id": "live-bbc-1793776488875-3",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 07:03:45 GMT",
-      "headline": "Ex-UK political aide Steve Hilton loses bid for California governor to Democrat",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg7y9eyn07o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "ex-uk",
-        "political",
-        "aide",
-        "steve",
-        "hilton",
-        "loses"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488749-0",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 06:57:06 +0000",
-      "headline": "South Africans vote in local elections seen as test for embattled ANC",
+      "id": "live-al jazeera-1793864548914-0",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 07:21:01 +0000",
+      "headline": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss",
       "keywords": [
-        "south",
-        "africans",
-        "vote",
-        "local",
-        "elections",
-        "seen"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488749-1",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 06:54:23 +0000",
-      "headline": "Firsts for women and minorities in US midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss",
-      "keywords": [
-        "firsts",
-        "women",
-        "minorities",
-        "midterm",
-        "elections"
-      ]
-    },
-    {
-      "id": "live-bbc-1793776488875-4",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 06:50:29 GMT",
-      "headline": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "delhi",
-        "quality",
-        "worsens",
-        "ahead",
-        "diwali",
-        "firework"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488749-2",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 06:49:23 +0000",
-      "headline": "Democrat Amy Acton makes history in Ohio",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss",
-      "keywords": [
-        "democrat",
-        "acton",
-        "makes",
-        "history",
-        "ohio"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488749-3",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 06:34:46 +0000",
-      "headline": "Democratic Party gains US House majority in 2026 midterm elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss",
-      "keywords": [
-        "democratic",
-        "party",
-        "gains",
-        "house",
-        "majority",
-        "2026"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488749-4",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 06:26:19 +0000",
-      "headline": "House Democratic leader Hakeem Jeffries hails midterm victory",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
-      "keywords": [
-        "house",
-        "democratic",
-        "leader",
-        "hakeem",
-        "jeffries",
-        "hails"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488750-5",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 06:12:59 +0000",
-      "headline": "Lula’s victory is a stress test for the Global South",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
-      "keywords": [
-        "lula’s",
-        "victory",
-        "stress",
-        "test",
-        "global",
-        "south"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488750-6",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 05:49:43 +0000",
-      "headline": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
-      "keywords": [
-        "photos:",
         "champions",
-        "league",
-        "tenerife",
-        "fans",
-        "tribute"
+        "league:",
+        "liverpool",
+        "suffer",
+        "loss",
+        "fenerbahce,"
       ]
     },
     {
-      "id": "live-bbc-1793776488875-1",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 05:39:36 GMT",
-      "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "james",
-        "talarico",
-        "becomes",
-        "first",
-        "democrat",
-        "texas"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488750-7",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 05:27:30 +0000",
-      "headline": "Democrats dominate NYC races, Hochul re-elected New York governor",
+      "id": "live-al jazeera-1793864548914-1",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 07:20:18 +0000",
+      "headline": "Guinness World Record broken as 53 red cards shown in Brazil under-20 match",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
       "keywords": [
-        "democrats",
-        "dominate",
-        "races,",
-        "hochul",
-        "re-elected",
-        "york"
+        "guinness",
+        "world",
+        "record",
+        "broken",
+        "cards",
+        "shown"
       ]
     },
     {
-      "id": "live-al jazeera-1793776488750-8",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 05:11:00 +0000",
-      "headline": "N Korea fires multiple missiles, denies US claims on Binance hack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-      "keywords": [
-        "korea",
-        "fires",
-        "multiple",
-        "missiles,",
-        "denies",
-        "claims"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1793776488750-9",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 05:07:00 +0000",
-      "headline": "Keisha Lance Bottoms becomes Georgia’s first black governor",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
-      "keywords": [
-        "keisha",
-        "lance",
-        "bottoms",
-        "becomes",
-        "georgia’s",
-        "first"
-      ]
-    },
-    {
-      "id": "live-bbc-1793776488875-8",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 03:46:10 GMT",
-      "headline": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "id": "live-bbc-1793864549023-2",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 06:35:25 GMT",
+      "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "weapon",
-        "wine",
-        "bottle?",
-        "china",
-        "disputes",
-        "reports"
+        "joshua",
+        "wong,",
+        "face",
+        "hong",
+        "kong's",
+        "pro-democracy"
       ]
     },
     {
-      "id": "live-bbc-1793776488875-0",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 03:24:34 GMT",
-      "headline": "South Carolina elects Democratic senator for first time in almost three decades",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1793864548914-2",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 06:34:50 +0000",
+      "headline": "New Zealand braces for knife-edge election: What you need to know",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
       "keywords": [
-        "south",
-        "carolina",
-        "elects",
+        "zealand",
+        "braces",
+        "knife-edge",
+        "election:",
+        "what",
+        "need"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793864548914-3",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 06:10:51 +0000",
+      "headline": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
+      "keywords": [
+        "india’s",
+        "democracy",
+        "failed",
+        "muslims?",
+        "jailed",
+        "scholar"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793864548915-4",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 05:39:31 +0000",
+      "headline": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+      "keywords": [
+        "israel’s",
+        "opposition",
+        "slams",
+        "‘toxic",
+        "netanyahu’",
+        "after"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793864548915-5",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 04:49:56 +0000",
+      "headline": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+      "keywords": [
+        "zelenskyy",
+        "hopes",
         "democratic",
-        "senator",
-        "first"
+        "congress",
+        "will",
+        "bring"
       ]
     },
     {
-      "id": "live-bbc-1793776488875-7",
-      "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 02:11:40 GMT",
-      "headline": "Killer who escaped Tennessee prison captured after week-long manhunt",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1793864548915-6",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 04:30:18 +0000",
+      "headline": "Mamdani: ‘it’s morning again in America’ after blue wave",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
       "keywords": [
-        "killer",
-        "escaped",
-        "tennessee",
-        "prison",
-        "captured",
+        "mamdani:",
+        "‘it’s",
+        "morning",
+        "again",
+        "america’",
         "after"
       ]
     },
     {
-      "id": "live-bbc-1793776488875-5",
+      "id": "live-al jazeera-1793864548915-7",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 04:12:11 +0000",
+      "headline": "Brazilian airport torn apart by violent storm",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
+      "keywords": [
+        "brazilian",
+        "airport",
+        "torn",
+        "apart",
+        "violent",
+        "storm"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793864548915-8",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 04:11:45 +0000",
+      "headline": "Paraguay bank collapses with half of population’s savings",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+      "keywords": [
+        "paraguay",
+        "bank",
+        "collapses",
+        "with",
+        "half",
+        "population’s"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1793864548915-9",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 04:04:57 +0000",
+      "headline": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
+      "keywords": [
+        "hong",
+        "kong",
+        "activist",
+        "joshua",
+        "wong",
+        "sentenced"
+      ]
+    },
+    {
+      "id": "live-bbc-1793864549023-0",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 03:47:56 GMT",
+      "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "vance",
+        "walks",
+        "trump",
+        "tightrope",
+        "with",
+        "scathing"
+      ]
+    },
+    {
+      "id": "live-bbc-1793864549023-6",
+      "date": "05 Nov 2026",
+      "realPubDate": "Thu, 05 Nov 2026 02:09:23 GMT",
+      "headline": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "pope",
+        "hosts",
+        "dylan",
+        "official",
+        "residence",
+        "rome"
+      ]
+    },
+    {
+      "id": "live-bbc-1793864549023-7",
       "date": "04 Nov 2026",
-      "realPubDate": "Wed, 04 Nov 2026 00:03:19 GMT",
-      "headline": "ANC under pressure to reverse South Africa decline",
+      "realPubDate": "Wed, 04 Nov 2026 23:50:40 GMT",
+      "headline": "Mother and daughter die after suspected grizzly bear attack in Canada",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "under",
-        "pressure",
-        "reverse",
-        "south",
-        "africa",
-        "decline"
+        "mother",
+        "daughter",
+        "after",
+        "suspected",
+        "grizzly",
+        "bear"
       ]
     },
     {
-      "id": "live-bbc-1793776488875-6",
-      "date": "03 Nov 2026",
-      "realPubDate": "Tue, 03 Nov 2026 22:45:59 GMT",
-      "headline": "Spanish transport minister resigns days after deadly train crash",
+      "id": "live-bbc-1793864549023-4",
+      "date": "04 Nov 2026",
+      "realPubDate": "Wed, 04 Nov 2026 23:12:47 GMT",
+      "headline": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "spanish",
-        "transport",
-        "minister",
-        "resigns",
-        "days",
-        "after"
+        "typhoons",
+        "batter",
+        "east",
+        "asia",
+        "niño",
+        "makes"
       ]
     },
     {
-      "id": "live-bbc-1793776488875-9",
-      "date": "03 Nov 2026",
-      "realPubDate": "Tue, 03 Nov 2026 16:19:29 GMT",
-      "headline": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "id": "live-bbc-1793864549023-8",
+      "date": "04 Nov 2026",
+      "realPubDate": "Wed, 04 Nov 2026 22:48:43 GMT",
+      "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "binance",
+        "ukraine",
         "says",
-        "fake",
-        "interviews",
-        "used",
-        "part"
+        "bodycam",
+        "video",
+        "shows",
+        "deadly"
+      ]
+    },
+    {
+      "id": "live-bbc-1793864549023-1",
+      "date": "04 Nov 2026",
+      "realPubDate": "Wed, 04 Nov 2026 18:01:27 GMT",
+      "headline": "What Democrats can and can't do with their new power after taking Congress",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "what",
+        "democrats",
+        "can't",
+        "with",
+        "their",
+        "power"
+      ]
+    },
+    {
+      "id": "live-bbc-1793864549023-5",
+      "date": "04 Nov 2026",
+      "realPubDate": "Wed, 04 Nov 2026 16:40:38 GMT",
+      "headline": "'Most difficult days of my life' for keeper Owono",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "'most",
+        "difficult",
+        "days",
+        "life'",
+        "keeper",
+        "owono"
+      ]
+    },
+    {
+      "id": "live-bbc-1793864549023-3",
+      "date": "04 Nov 2026",
+      "realPubDate": "Wed, 04 Nov 2026 16:26:15 GMT",
+      "headline": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "french",
+        "blood",
+        "storage",
+        "impacted",
+        "freezer",
+        "hacks"
+      ]
+    },
+    {
+      "id": "live-bbc-1793864549023-9",
+      "date": "04 Nov 2026",
+      "realPubDate": "Wed, 04 Nov 2026 16:18:21 GMT",
+      "headline": "Israel's president begins consultations with parties after election deadlock",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "israel's",
+        "president",
+        "begins",
+        "consultations",
+        "with",
+        "parties"
       ]
     }
   ]
