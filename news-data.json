@@ -1,215 +1,307 @@
 {
-  "lastUpdated": "2026-11-08T06:55:28.241Z",
-  "lastUpdatedDisplay": "08 Nov 2026, 06:55",
+  "lastUpdated": "2026-11-09T07:39:57.668Z",
+  "lastUpdatedDisplay": "09 Nov 2026, 07:39",
   "news": [
     {
-      "id": "live-al jazeera-1794120928083-0",
-      "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 05:09:39 +0000",
-      "headline": "Haitians cheer El Salvador’s Bukele amid gang war",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
-      "keywords": [
-        "haitians",
-        "cheer",
-        "salvador’s",
-        "bukele",
-        "amid",
-        "gang"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794120928083-1",
-      "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 04:59:02 +0000",
-      "headline": "Plane clips truck during emergency landing on busy Florida road",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss",
-      "keywords": [
-        "plane",
-        "clips",
-        "truck",
-        "during",
-        "emergency",
-        "landing"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794120928083-2",
-      "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 04:56:37 +0000",
-      "headline": "Drone attack on Colombian army base kills three soldiers and wounds 16",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
-      "keywords": [
-        "drone",
-        "attack",
-        "colombian",
-        "army",
-        "base",
-        "kills"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794120928083-3",
-      "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 04:20:57 +0000",
-      "headline": "Earthquake hits central Japan, injuring more than 20 people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
-      "keywords": [
-        "earthquake",
-        "hits",
-        "central",
-        "japan,",
-        "injuring",
-        "more"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-1",
-      "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 04:03:12 GMT",
-      "headline": "Houthis say at least 33 killed in Saudi air strike",
+      "id": "live-bbc-1794209997328-0",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 07:26:09 GMT",
+      "headline": "Krakow shooting suspect has died in hospital, police say",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "houthis",
-        "least",
-        "killed",
-        "saudi",
-        "strike"
+        "krakow",
+        "shooting",
+        "suspect",
+        "died",
+        "hospital,",
+        "police"
       ]
     },
     {
-      "id": "live-al jazeera-1794120928083-4",
-      "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 03:12:44 +0000",
-      "headline": "Trump asks UFC chief Dana White to be White House press secretary",
+      "id": "live-al jazeera-1794209997253-0",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 07:21:37 +0000",
+      "headline": "Which countries and industries emit the most greenhouse gases?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
       "keywords": [
-        "trump",
-        "asks",
-        "chief",
-        "dana",
-        "white",
-        "white"
+        "which",
+        "countries",
+        "industries",
+        "emit",
+        "most",
+        "greenhouse"
       ]
     },
     {
-      "id": "live-al jazeera-1794120928083-5",
-      "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 03:04:28 +0000",
-      "headline": "Egypt sacks winning football coach after wives’ scandal",
+      "id": "live-al jazeera-1794209997253-1",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 07:12:09 +0000",
+      "headline": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
       "keywords": [
-        "egypt",
-        "sacks",
-        "winning",
-        "football",
-        "coach",
+        "ousted",
+        "sheikh",
+        "hasina",
+        "seeks",
+        "passport",
+        "sign"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794209997253-2",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 07:07:26 +0000",
+      "headline": "Who are the seafarers caught in the US-Israeli war on Iran?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+      "keywords": [
+        "seafarers",
+        "caught",
+        "us-israeli",
+        "iran?"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794209997253-3",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 07:03:24 +0000",
+      "headline": "Poland mass shooting assailant dies in hospital, police say",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
+      "keywords": [
+        "poland",
+        "mass",
+        "shooting",
+        "assailant",
+        "dies",
+        "hospital,"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794209997253-4",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 06:49:55 +0000",
+      "headline": "Why we disrupted Annalena Baerbock’s award speech",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss",
+      "keywords": [
+        "disrupted",
+        "annalena",
+        "baerbock’s",
+        "award",
+        "speech"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794209997253-5",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 06:42:03 +0000",
+      "headline": "What is next for Israel?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel?traffic_source=rss",
+      "keywords": [
+        "what",
+        "next",
+        "israel?"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794209997253-6",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 06:32:18 +0000",
+      "headline": "How Israel’s separation wall compares with the Berlin Wall",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
+      "keywords": [
+        "israel’s",
+        "separation",
+        "wall",
+        "compares",
+        "with",
+        "berlin"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794209997253-7",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 06:21:08 +0000",
+      "headline": "Lando Norris wins Sao Palo Grand Prix, but Mercedes seal constructors title",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss",
+      "keywords": [
+        "lando",
+        "norris",
+        "wins",
+        "palo",
+        "grand",
+        "prix,"
+      ]
+    },
+    {
+      "id": "live-bbc-1794209997329-1",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 06:00:26 GMT",
+      "headline": "Inside the French drug gangs recruiting children to kill",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "inside",
+        "french",
+        "drug",
+        "gangs",
+        "recruiting",
+        "children"
+      ]
+    },
+    {
+      "id": "live-bbc-1794209997329-4",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 05:30:37 GMT",
+      "headline": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "pope",
+        "delivers",
+        "veiled",
+        "rebuke",
+        "milei's",
+        "austerity"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794209997253-8",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 05:20:08 +0000",
+      "headline": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+      "keywords": [
+        "smog",
+        "blankets",
+        "delhi",
+        "diwali",
+        "firecrackers",
+        "worsen"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794209997253-9",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 05:18:39 +0000",
+      "headline": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+      "keywords": [
+        "‘tents",
+        "don’t",
+        "protect",
+        "us’:",
+        "rains",
+        "flood"
+      ]
+    },
+    {
+      "id": "live-bbc-1794209997329-5",
+      "date": "09 Nov 2026",
+      "realPubDate": "Mon, 09 Nov 2026 02:50:13 GMT",
+      "headline": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "cruise",
+        "ship",
+        "pianist",
+        "rescued",
+        "from",
         "after"
       ]
     },
     {
-      "id": "live-al jazeera-1794120928084-6",
+      "id": "live-bbc-1794209997329-2",
       "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 02:34:04 +0000",
-      "headline": "US launches task force to disrupt Iran’s land-based supply routes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
-      "keywords": [
-        "launches",
-        "task",
-        "force",
-        "disrupt",
-        "iran’s",
-        "land-based"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-0",
-      "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 01:47:41 GMT",
-      "headline": "What we know so far after Krakow gun attack",
+      "realPubDate": "Sun, 08 Nov 2026 23:34:18 GMT",
+      "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "what",
-        "know",
-        "after",
+        "surgeon",
+        "having",
+        "lunch",
+        "near",
         "krakow",
-        "attack"
+        "shooting"
       ]
     },
     {
-      "id": "live-al jazeera-1794120928084-7",
+      "id": "live-bbc-1794209997329-7",
       "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 01:37:55 +0000",
-      "headline": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+      "realPubDate": "Sun, 08 Nov 2026 21:37:36 GMT",
+      "headline": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "canary",
-        "islands’",
-        "hierro",
-        "declares",
-        "emergency",
-        "amid"
+        "aramco",
+        "tower",
+        "heart",
+        "saudi",
+        "capital",
+        "houthis"
       ]
     },
     {
-      "id": "live-al jazeera-1794120928084-8",
+      "id": "live-bbc-1794209997329-3",
       "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 00:50:28 +0000",
-      "headline": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "realPubDate": "Sun, 08 Nov 2026 19:58:02 GMT",
+      "headline": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "polish",
-        "calls",
-        "deadly",
-        "krakow",
-        "shooting",
-        "‘terrorism’"
+        "seven",
+        "dead",
+        "more",
+        "than",
+        "injured",
+        "after"
       ]
     },
     {
-      "id": "live-al jazeera-1794120928084-9",
+      "id": "live-bbc-1794209997329-6",
       "date": "08 Nov 2026",
-      "realPubDate": "Sun, 08 Nov 2026 00:00:56 +0000",
-      "headline": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "realPubDate": "Sun, 08 Nov 2026 14:42:09 GMT",
+      "headline": "Homes and temples glow across India to mark Diwali",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "homes",
+        "temples",
+        "glow",
+        "across",
+        "india",
+        "mark"
+      ]
+    },
+    {
+      "id": "live-bbc-1794209997329-9",
+      "date": "08 Nov 2026",
+      "realPubDate": "Sun, 08 Nov 2026 13:37:50 GMT",
+      "headline": "Iran executes three men for 'armed unrest' after January protests",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
         "iran",
-        "live:",
-        "moves",
-        "block",
-        "land",
-        "supply"
+        "executes",
+        "three",
+        "'armed",
+        "unrest'",
+        "after"
       ]
     },
     {
-      "id": "live-bbc-1794120928139-3",
-      "date": "07 Nov 2026",
-      "realPubDate": "Sat, 07 Nov 2026 22:19:59 GMT",
-      "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "israel's",
-        "president",
-        "tasks",
-        "opposition",
-        "leader",
-        "eisenkot"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-2",
+      "id": "live-bbc-1794209997329-8",
       "date": "07 Nov 2026",
       "realPubDate": "Sat, 07 Nov 2026 21:36:16 GMT",
       "headline": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -222,102 +314,6 @@
         "unusually",
         "gloomy",
         "kiwis"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-7",
-      "date": "07 Nov 2026",
-      "realPubDate": "Sat, 07 Nov 2026 19:17:22 GMT",
-      "headline": "Paraguay's former president charged after bank collapse",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "paraguay's",
-        "former",
-        "president",
-        "charged",
-        "after",
-        "bank"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-4",
-      "date": "07 Nov 2026",
-      "realPubDate": "Sat, 07 Nov 2026 18:14:38 GMT",
-      "headline": "US offers $20m reward for information about Iran's nuclear programme",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "offers",
-        "$20m",
-        "reward",
-        "information",
-        "about",
-        "iran's"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-9",
-      "date": "07 Nov 2026",
-      "realPubDate": "Sat, 07 Nov 2026 16:50:06 GMT",
-      "headline": "Italian foreign minister says hackers leaked his personal data",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "italian",
-        "foreign",
-        "minister",
-        "says",
-        "hackers",
-        "leaked"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-5",
-      "date": "07 Nov 2026",
-      "realPubDate": "Sat, 07 Nov 2026 15:19:35 GMT",
-      "headline": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "cannot",
-        "'cherry",
-        "pick'",
-        "single",
-        "market",
-        "deal,"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-8",
-      "date": "07 Nov 2026",
-      "realPubDate": "Sat, 07 Nov 2026 06:59:48 GMT",
-      "headline": "Pope in 'pretty good health' as he starts Latin America tour",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "pope",
-        "'pretty",
-        "good",
-        "health'",
-        "starts",
-        "latin"
-      ]
-    },
-    {
-      "id": "live-bbc-1794120928139-6",
-      "date": "06 Nov 2026",
-      "realPubDate": "Fri, 06 Nov 2026 23:24:15 GMT",
-      "headline": "With Stephen Miller pick, Trump readies for a battle",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "with",
-        "stephen",
-        "miller",
-        "pick,",
-        "trump",
-        "readies"
       ]
     }
   ]
