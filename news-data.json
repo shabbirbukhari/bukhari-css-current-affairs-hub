@@ -1,319 +1,324 @@
 {
-  "lastUpdated": "2026-11-10T07:59:49.083Z",
-  "lastUpdatedDisplay": "10 Nov 2026, 07:59",
+  "lastUpdated": "2026-11-11T07:29:22.252Z",
+  "lastUpdatedDisplay": "11 Nov 2026, 07:29",
   "news": [
     {
-      "id": "live-bbc-1794297588675-1",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 07:58:07 GMT",
-      "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1794382161811-0",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 06:23:04 +0000",
+      "headline": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
       "keywords": [
-        "ukraine",
-        "peace",
-        "talks",
-        "resume",
-        "with",
-        "'some"
+        "netanyahu",
+        "fights",
+        "stay",
+        "relevant",
+        "israel’s",
+        "opposition"
       ]
     },
     {
-      "id": "live-al jazeera-1794297588568-0",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 07:05:11 +0000",
-      "headline": "Australia tightens AI oversight rules after OpenAI government breach",
+      "id": "live-al jazeera-1794382161811-1",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 05:52:28 +0000",
+      "headline": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
       "keywords": [
-        "australia",
-        "tightens",
-        "oversight",
-        "rules",
-        "after",
-        "openai"
+        "south",
+        "african",
+        "swimmer",
+        "tatjana",
+        "smith",
+        "switches"
       ]
     },
     {
-      "id": "live-al jazeera-1794297588568-1",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 06:38:57 +0000",
-      "headline": "Why adults are buying toys",
+      "id": "live-al jazeera-1794382161811-2",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 05:39:26 +0000",
+      "headline": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
       "keywords": [
-        "adults",
-        "buying",
-        "toys"
+        "yemeni",
+        "forces,",
+        "houthis",
+        "exchange",
+        "attacks,",
+        "claim"
       ]
     },
     {
-      "id": "live-al jazeera-1794297588568-2",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 06:37:13 +0000",
-      "headline": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+      "id": "live-al jazeera-1794382161811-3",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 05:16:57 +0000",
+      "headline": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
       "keywords": [
-        "palestine",
-        "weekly:",
-        "west",
-        "bank",
-        "fire",
-        "gaza’s"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794297588568-3",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 06:22:35 +0000",
-      "headline": "Luka Doncic’s 32 points help Lakers beat Hawks; Wembanyama powers Spurs",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/10/nba-doncic-lakers-wembanyama-spurs-curry-warriors?traffic_source=rss",
-      "keywords": [
-        "luka",
-        "doncic’s",
-        "points",
-        "help",
-        "lakers",
-        "beat"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794297588568-4",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 06:22:00 +0000",
-      "headline": "Khor Mor drone attack raises fears over Iraq’s energy security",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
-      "keywords": [
-        "khor",
-        "drone",
-        "attack",
-        "raises",
-        "fears",
-        "over"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794297588568-5",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 06:16:43 +0000",
-      "headline": "Florida’s red wall is cracking, but Democrats are missing their chance",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/10/floridas-red-wall-is-cracking-but-democrats-are-missing-their-chance?traffic_source=rss",
-      "keywords": [
-        "florida’s",
-        "wall",
-        "cracking,",
-        "democrats",
-        "missing",
+        "$500",
+        "square",
+        "metres’:",
+        "spain’s",
+        "protesters,",
         "their"
       ]
     },
     {
-      "id": "live-al jazeera-1794297588568-6",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 06:13:00 +0000",
-      "headline": "Cricket Australia will not open another investigation into ‘sandpapergate’",
+      "id": "live-al jazeera-1794382161811-4",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 05:01:47 +0000",
+      "headline": "US charges three men for allegedly plotting attack on UK base",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/10/cricket-australia-will-not-open-another-investigation-into-sandpapergate?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
       "keywords": [
-        "cricket",
-        "australia",
-        "will",
-        "open",
-        "another",
-        "investigation"
+        "charges",
+        "three",
+        "allegedly",
+        "plotting",
+        "attack",
+        "base"
       ]
     },
     {
-      "id": "live-al jazeera-1794297588568-7",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 06:08:54 +0000",
-      "headline": "Can the Republican Party survive Trump?",
+      "id": "live-al jazeera-1794382161811-5",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 04:56:22 +0000",
+      "headline": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/malaysias-ex-pm-transferred-to-house-arrest-for-1mdb-graft-sentence?traffic_source=rss",
       "keywords": [
-        "republican",
-        "party",
-        "survive",
-        "trump?"
+        "malaysia’s",
+        "ex-pm",
+        "transferred",
+        "house",
+        "arrest",
+        "1mdb"
       ]
     },
     {
-      "id": "live-al jazeera-1794297588569-8",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 05:39:50 +0000",
-      "headline": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+      "id": "live-al jazeera-1794382161811-6",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 04:44:18 +0000",
+      "headline": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
       "keywords": [
-        "firms",
-        "tied",
-        "west",
-        "bank",
-        "settlements",
-        "$15m"
+        "ebola",
+        "cases",
+        "congo",
+        "pass",
+        "11,000,",
+        "with"
       ]
     },
     {
-      "id": "live-al jazeera-1794297588569-9",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 05:38:50 +0000",
-      "headline": "Moscow summit tests Russia’s waning grip on former Soviet allies",
+      "id": "live-al jazeera-1794382161811-7",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 04:34:47 +0000",
+      "headline": "Russia claims interception of 146 drones in Leningrad region",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
       "keywords": [
-        "moscow",
-        "summit",
-        "tests",
-        "russia’s",
-        "waning",
-        "grip"
+        "russia",
+        "claims",
+        "interception",
+        "drones",
+        "leningrad",
+        "region"
       ]
     },
     {
-      "id": "live-bbc-1794297588675-2",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 05:33:25 GMT",
-      "headline": "Trump says more US attacks on Iran 'highly unlikely'",
+      "id": "live-al jazeera-1794382161811-8",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 04:04:56 +0000",
+      "headline": "Netanyahu heckled by Bennett at Knesset opening session",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
+      "keywords": [
+        "netanyahu",
+        "heckled",
+        "bennett",
+        "knesset",
+        "opening",
+        "session"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794382161812-9",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 03:48:58 +0000",
+      "headline": "Section 219: the future of US-Israeli defence partnership",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss",
+      "keywords": [
+        "section",
+        "219:",
+        "future",
+        "us-israeli",
+        "defence",
+        "partnership"
+      ]
+    },
+    {
+      "id": "live-bbc-1794382161909-7",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 03:44:06 GMT",
+      "headline": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "trump",
-        "says",
-        "more",
+        "kennedys",
+        "block",
+        "trump's",
+        "arch,",
+        "arguing",
+        "would"
+      ]
+    },
+    {
+      "id": "live-bbc-1794382161908-2",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 03:26:42 GMT",
+      "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "house",
+        "blocks",
+        "impeach",
+        "defence",
+        "secretary",
+        "pete"
+      ]
+    },
+    {
+      "id": "live-bbc-1794382161908-5",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 02:47:59 GMT",
+      "headline": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "headquarters",
+        "haitian",
+        "gang",
+        "destroyed,",
+        "salvador's",
+        "president"
+      ]
+    },
+    {
+      "id": "live-bbc-1794382161908-3",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 02:41:16 GMT",
+      "headline": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "meghan's",
+        "father",
+        "thomas",
+        "markle",
+        "back",
+        "federal"
+      ]
+    },
+    {
+      "id": "live-bbc-1794382161908-0",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 01:01:20 GMT",
+      "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "three",
+        "iran-backed",
+        "suspects",
+        "plotted",
         "attacks",
-        "iran",
-        "'highly"
+        "including"
       ]
     },
     {
-      "id": "live-bbc-1794297588675-4",
+      "id": "live-bbc-1794382161908-4",
+      "date": "11 Nov 2026",
+      "realPubDate": "Wed, 11 Nov 2026 00:18:07 GMT",
+      "headline": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "kill",
+        "us':",
+        "kenyans",
+        "fear",
+        "impact",
+        "niño"
+      ]
+    },
+    {
+      "id": "live-bbc-1794382161908-1",
       "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 05:22:39 GMT",
-      "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "realPubDate": "Tue, 10 Nov 2026 20:20:04 GMT",
+      "headline": "US Army soldier suspected of spying for Russia arrested in UK",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "australia",
-        "considers",
-        "criminal",
-        "penalties",
-        "rogue",
-        "wake"
+        "army",
+        "soldier",
+        "suspected",
+        "spying",
+        "russia",
+        "arrested"
       ]
     },
     {
-      "id": "live-bbc-1794297588675-0",
+      "id": "live-bbc-1794382161909-8",
       "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 03:58:13 GMT",
-      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "realPubDate": "Tue, 10 Nov 2026 19:26:42 GMT",
+      "headline": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "trump",
-        "says",
-        "investigating",
-        "nvidia",
-        "boss's",
-        "affair"
+        "violence",
+        "erupts",
+        "bangladesh",
+        "ousted",
+        "pm's",
+        "supporters"
       ]
     },
     {
-      "id": "live-bbc-1794297588675-8",
+      "id": "live-bbc-1794382161909-6",
       "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 01:55:22 GMT",
-      "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "realPubDate": "Tue, 10 Nov 2026 18:04:18 GMT",
+      "headline": "Anti-homosexuality laws in Trinidad and Tobago overturned",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "qantas",
-        "outsource",
-        "local",
-        "jobs",
-        "with",
-        "most"
+        "anti-homosexuality",
+        "laws",
+        "trinidad",
+        "tobago",
+        "overturned"
       ]
     },
     {
-      "id": "live-bbc-1794297588675-5",
+      "id": "live-bbc-1794382161909-9",
       "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 01:49:06 GMT",
-      "headline": "'Cruise for life' ship seized in Singapore",
+      "realPubDate": "Tue, 10 Nov 2026 17:03:16 GMT",
+      "headline": "Israel's new parliament sworn in as leaders compete to form government",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "'cruise",
-        "life'",
-        "ship",
-        "seized",
-        "singapore"
-      ]
-    },
-    {
-      "id": "live-bbc-1794297588675-6",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 01:38:49 GMT",
-      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "republican",
-        "congressman",
-        "force",
-        "impeachment",
-        "vote",
-        "defence"
-      ]
-    },
-    {
-      "id": "live-bbc-1794297588675-3",
-      "date": "10 Nov 2026",
-      "realPubDate": "Tue, 10 Nov 2026 00:14:03 GMT",
-      "headline": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "epstein",
-        "associate",
-        "still",
-        "runs",
-        "model",
-        "agency"
-      ]
-    },
-    {
-      "id": "live-bbc-1794297588675-7",
-      "date": "09 Nov 2026",
-      "realPubDate": "Mon, 09 Nov 2026 20:20:08 GMT",
-      "headline": "France accuses Iran of supermarket fridge hacking",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "france",
-        "accuses",
-        "iran",
-        "supermarket",
-        "fridge",
-        "hacking"
-      ]
-    },
-    {
-      "id": "live-bbc-1794297588675-9",
-      "date": "09 Nov 2026",
-      "realPubDate": "Mon, 09 Nov 2026 18:08:07 GMT",
-      "headline": "Russia's leading independent newspaper closes after eviction",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "russia's",
-        "leading",
-        "independent",
-        "newspaper",
-        "closes",
-        "after"
+        "israel's",
+        "parliament",
+        "sworn",
+        "leaders",
+        "compete",
+        "form"
       ]
     }
   ]
