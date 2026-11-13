@@ -1,324 +1,325 @@
 {
-  "lastUpdated": "2026-11-12T07:57:15.924Z",
-  "lastUpdatedDisplay": "12 Nov 2026, 07:57",
+  "lastUpdated": "2026-11-13T07:36:23.420Z",
+  "lastUpdatedDisplay": "13 Nov 2026, 07:36",
   "news": [
     {
-      "id": "live-bbc-1794470235741-4",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 07:45:52 GMT",
-      "headline": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss",
+      "id": "live-al jazeera-1794555382986-0",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 07:19:08 +0000",
+      "headline": "The real winner in Poland’s constitutional battle is Putin",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss",
       "keywords": [
-        "ugandan",
-        "police",
-        "investigate",
-        "deaths",
-        "four",
-        "pupils"
+        "real",
+        "winner",
+        "poland’s",
+        "constitutional",
+        "battle",
+        "putin"
       ]
     },
     {
-      "id": "live-al jazeera-1794470235539-0",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 07:38:05 +0000",
-      "headline": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+      "id": "live-al jazeera-1794555382986-1",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 07:08:01 +0000",
+      "headline": "The Gulf must build security that can outlast this war",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+      "url": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
       "keywords": [
-        "iran",
-        "open",
-        "deal",
-        "‘refrains",
-        "from",
-        "excessive"
+        "gulf",
+        "must",
+        "build",
+        "security",
+        "that",
+        "outlast"
       ]
     },
     {
-      "id": "live-al jazeera-1794470235539-1",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 07:37:42 +0000",
-      "headline": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
+      "id": "live-al jazeera-1794555382986-2",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 06:57:56 +0000",
+      "headline": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss",
+      "keywords": [
+        "jessica",
+        "pegula",
+        "wins",
+        "thrilling",
+        "contest",
+        "finals,"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794555382986-3",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 06:46:35 +0000",
+      "headline": "US reports record number of deportations and arrests in 2026",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
+      "keywords": [
+        "reports",
+        "record",
+        "number",
+        "deportations",
+        "arrests",
+        "2026"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794555382986-4",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 06:13:11 +0000",
+      "headline": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/13/pat-cummins-australia-usman-khawaja-sandpapergate-test-south-africa?traffic_source=rss",
+      "keywords": [
+        "australia",
+        "captain",
+        "cummins",
+        "denies",
+        "involvement",
+        "‘sandpapergate’"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794555382986-5",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 05:38:36 +0000",
+      "headline": "Harry Kane breaks caps record as England reach Nations League knockouts",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
+      "keywords": [
+        "harry",
+        "kane",
+        "breaks",
+        "caps",
+        "record",
+        "england"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794555382986-6",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 05:23:31 +0000",
+      "headline": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+      "keywords": [
+        "burkina",
+        "faso’s",
+        "rival",
+        "armed",
+        "groups",
+        "turn"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794555382986-7",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 05:05:50 +0000",
+      "headline": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss",
       "keywords": [
         "pope",
-        "welcomed",
-        "millions",
-        "second",
-        "‘homeland’",
+        "meets",
+        "clergy",
+        "abuse",
+        "survivors",
         "peru"
       ]
     },
     {
-      "id": "live-al jazeera-1794470235539-2",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 06:49:45 +0000",
-      "headline": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
+      "id": "live-al jazeera-1794555382986-8",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 04:51:56 +0000",
+      "headline": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
+      "url": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
       "keywords": [
+        "unrwa",
+        "funding",
+        "cuts",
+        "deepen",
+        "hardship",
+        "palestinian"
+      ]
+    },
+    {
+      "id": "live-al jazeera-1794555382987-9",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 04:48:40 +0000",
+      "headline": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
+      "keywords": [
+        "iranophobia:",
         "netanyahu’s",
-        "legacy:",
-        "personality",
-        "politics",
-        "reshapes",
-        "israeli"
+        "transform",
+        "fear",
+        "into",
+        "political"
       ]
     },
     {
-      "id": "live-al jazeera-1794470235539-3",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 06:38:01 +0000",
-      "headline": "Indonesia vice president resigns amid dispute over eligibility",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+      "id": "live-bbc-1794555383100-0",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 03:57:01 GMT",
+      "headline": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "indonesia",
-        "vice",
-        "president",
-        "resigns",
-        "amid",
-        "dispute"
+        "ex-nvidia",
+        "jensen",
+        "huang",
+        "summoned",
+        "testify",
+        "before"
       ]
     },
     {
-      "id": "live-al jazeera-1794470235539-4",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 06:37:06 +0000",
-      "headline": "Sheikh Hasina must return to Bangladesh to face her sentence",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss",
+      "id": "live-bbc-1794555383100-5",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 03:02:54 GMT",
+      "headline": "Australian footballers will not be charged after hotel incident, police say",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "sheikh",
-        "hasina",
-        "must",
-        "return",
-        "bangladesh",
-        "face"
+        "australian",
+        "footballers",
+        "will",
+        "charged",
+        "after",
+        "hotel"
       ]
     },
     {
-      "id": "live-al jazeera-1794470235539-5",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 06:26:01 +0000",
-      "headline": "It is time for a change of leadership in the Democratic Party in the US",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/12/it-is-time-for-a-change-of-leadership-in-the-democratic-party-in-the-us?traffic_source=rss",
+      "id": "live-bbc-1794555383100-2",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 02:48:29 GMT",
+      "headline": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "time",
-        "change",
-        "leadership",
-        "democratic",
-        "party"
+        "north",
+        "korean",
+        "hackers",
+        "used",
+        "fake",
+        "video"
       ]
     },
     {
-      "id": "live-al jazeera-1794470235539-6",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 06:17:48 +0000",
-      "headline": "From Pong to GTA VI: Play your way through 50 years of video games",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss",
+      "id": "live-bbc-1794555383100-1",
+      "date": "13 Nov 2026",
+      "realPubDate": "Fri, 13 Nov 2026 02:01:35 GMT",
+      "headline": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "from",
-        "pong",
-        "play",
-        "your",
-        "through",
-        "years"
+        "zelensky",
+        "welcomes",
+        "bringing",
+        "europe",
+        "into",
+        "russia-ukraine"
       ]
     },
     {
-      "id": "live-bbc-1794470235741-2",
+      "id": "live-bbc-1794555383100-3",
       "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 06:12:05 GMT",
-      "headline": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "realPubDate": "Thu, 12 Nov 2026 20:09:16 GMT",
+      "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "russian",
+        "warship",
+        "ukrainian",
+        "drone",
+        "gulf",
+        "finland"
+      ]
+    },
+    {
+      "id": "live-bbc-1794555383100-4",
+      "date": "12 Nov 2026",
+      "realPubDate": "Thu, 12 Nov 2026 19:23:02 GMT",
+      "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "suspected",
+        "bomb",
+        "hoax",
+        "threats",
+        "force",
+        "fresh"
+      ]
+    },
+    {
+      "id": "live-bbc-1794555383100-6",
+      "date": "12 Nov 2026",
+      "realPubDate": "Thu, 12 Nov 2026 18:47:35 GMT",
+      "headline": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&amp;at_campaign=rss",
+      "keywords": [
+        "hegseth",
+        "awards",
+        "medal",
+        "memorial",
+        "guard",
+        "reprimanded"
+      ]
+    },
+    {
+      "id": "live-bbc-1794555383101-9",
+      "date": "12 Nov 2026",
+      "realPubDate": "Thu, 12 Nov 2026 16:54:12 GMT",
+      "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
         "israeli",
         "strike",
+        "gaza",
         "hospital",
         "kills",
-        "least",
-        "five"
+        "palestinians,"
       ]
     },
     {
-      "id": "live-bbc-1794470235740-0",
+      "id": "live-bbc-1794555383101-8",
       "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 05:59:18 GMT",
-      "headline": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "realPubDate": "Thu, 12 Nov 2026 15:18:20 GMT",
+      "headline": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
-        "ukraine's",
-        "power",
-        "supply",
-        "close",
-        "critical",
-        "russian"
+        "millions",
+        "ebola",
+        "dollars",
+        "missing",
+        "with",
+        "staff"
       ]
     },
     {
-      "id": "live-bbc-1794470235741-3",
+      "id": "live-bbc-1794555383101-7",
       "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 05:12:56 GMT",
-      "headline": "New York building collapse kills at least two, officials say",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "york",
-        "building",
-        "collapse",
-        "kills",
-        "least",
-        "two,"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794470235539-7",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 05:11:15 +0000",
-      "headline": "French guard collapses as Macron rushes to help",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
-      "keywords": [
-        "french",
-        "guard",
-        "collapses",
-        "macron",
-        "rushes",
-        "help"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794470235539-8",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 05:04:25 +0000",
-      "headline": "More than 300 migrants rescued off Spain’s Canary Islands",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
-      "keywords": [
-        "more",
-        "than",
-        "migrants",
-        "rescued",
-        "spain’s",
-        "canary"
-      ]
-    },
-    {
-      "id": "live-al jazeera-1794470235540-9",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 04:41:17 +0000",
-      "headline": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
-      "keywords": [
-        "fighting",
-        "intensifies",
-        "yemen",
-        "houthis",
-        "deny",
-        "targeting"
-      ]
-    },
-    {
-      "id": "live-bbc-1794470235740-1",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 04:00:30 GMT",
-      "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "realPubDate": "Thu, 12 Nov 2026 12:56:55 GMT",
+      "headline": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss",
       "keywords": [
         "democrat",
         "scott",
         "colom",
-        "seals",
-        "historic",
-        "mississippi"
-      ]
-    },
-    {
-      "id": "live-bbc-1794470235741-5",
-      "date": "12 Nov 2026",
-      "realPubDate": "Thu, 12 Nov 2026 02:40:18 GMT",
-      "headline": "Australian teen missing in bush for six days rescued alive",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "australian",
-        "teen",
-        "missing",
-        "bush",
-        "days",
-        "rescued"
-      ]
-    },
-    {
-      "id": "live-bbc-1794470235741-6",
-      "date": "11 Nov 2026",
-      "realPubDate": "Wed, 11 Nov 2026 22:07:37 GMT",
-      "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "clashes",
-        "erupt",
-        "barcelona",
-        "after",
-        "thousands",
-        "join"
-      ]
-    },
-    {
-      "id": "live-bbc-1794470235741-7",
-      "date": "11 Nov 2026",
-      "realPubDate": "Wed, 11 Nov 2026 18:04:58 GMT",
-      "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "russia-ukraine",
-        "talks",
-        "turn",
-        "post-war",
-        "security",
-        "without"
-      ]
-    },
-    {
-      "id": "live-bbc-1794470235742-9",
-      "date": "11 Nov 2026",
-      "realPubDate": "Wed, 11 Nov 2026 16:38:07 GMT",
-      "headline": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "indonesia's",
-        "vice-president",
-        "resigns",
-        "amid",
-        "signs",
-        "ruling"
-      ]
-    },
-    {
-      "id": "live-bbc-1794470235742-8",
-      "date": "11 Nov 2026",
-      "realPubDate": "Wed, 11 Nov 2026 14:56:11 GMT",
-      "headline": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&amp;at_campaign=rss",
-      "keywords": [
-        "kidnapper,",
-        "escapes",
-        "from",
-        "house",
-        "arrest",
-        "argentina"
+        "makes",
+        "history",
+        "mississippi's"
       ]
     }
   ]
